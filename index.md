@@ -1,7 +1,7 @@
 ---
 layout: frontpage
-title: Karl Broman
-description: Karl Broman is Professor in Biostatistics and Medical Informatics at University of Wisconsin - Madison; research in statistical genetics
+title: Benjamin Harvey, Ph.D.
+description: Benjamin Harvey is an Adjunct Professor at The George Washington University. He teaches a Data Analytis Introduction and Practicum course.
 keywords: Broman, QTL, R/qtl, quantitative trait loci, statistics, statistical genetics, recombination
 ---
 
@@ -9,9 +9,9 @@ keywords: Broman, QTL, R/qtl, quantitative trait loci, statistics, statistical g
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/broman_cv.pdf">cv</a></li>
-          <li><a href="https://github.com/kbroman">github</a></li>
+          <li><a href="https://github.com/bsharvey">github</a></li>
           <li><a href="http://kbroman.org/blog">blog</a></li>
-          <li><a href="https://twitter.com/kwbroman">@kwbroman</a></li>
+          <li><a href="https://www.linkedin.com/in/benjamin-harvey-ph-d-1928839a/">LinkedIn</a></li>
       </ul>
   </div>
 </div>
