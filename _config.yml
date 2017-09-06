@@ -8,12 +8,12 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : Karl Broman
+title : Benjamin Harvey
 author :
-  name : Karl Broman
-  email : kbroman@gmail.com
-  github : kbroman
-  twitter : kwbroman
+  name : Benjamin Harvey
+  email : bsharve@gmail.com
+  github : bsharvey
+  twitter : bsharvey
   feedburner : nil
 
 production_url : https://bsharvey.github.io/
