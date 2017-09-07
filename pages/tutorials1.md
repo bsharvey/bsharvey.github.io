@@ -4,7 +4,7 @@ title: Assignments
 description: Benjamin Harvey's Lab Assignments
 ---
 
-- ## Labs
+- ## EMSE6992 Assignments
 
 * [Assignment 1a: Web Scraping](https://github.com/cs109/content/tree/master/labs/lab2)
 * [Assignment 1b: EDA, Pandas, Matplotlib](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab3/lab3full.ipynb)
