@@ -23,28 +23,28 @@ Various Python functions from Assignment 1 that I find useful run against my sel
 
 #### <a name="broman"></a>[Regression/PCA](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab4/Lab4full.ipynb)
 
-Various Python functions from Assignment 1 that I find useful run against my selected dataset, assembled into an IPython Notebook.
+Various Python functions from Assignment 2 that I find useful run against my selected dataset, assembled into an IPython Notebook.
 
 
 #### <a name="broman"></a>[Bias, Variance, Cross-Validation](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab5/Lab5.ipynb)
 
-Various Python functions from Assignment 1 that I find useful run against my selected dataset, assembled into an IPython Notebook.
+Various Python functions from Assignment 3 that I find useful run against my selected dataset, assembled into an IPython Notebook.
 
 #### <a name="broman"></a>[Bayes/Linear Regression](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab6/BayesLinear.ipynb)
 
-Various Python functions from Assignment 1 that I find useful run against my selected dataset, assembled into an IPython Notebook.
+Various Python functions from Assignment 3 that I find useful run against my selected dataset, assembled into an IPython Notebook.
 
 #### <a name="broman"></a>[MapReduce](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab8/lab8_mapreduce.ipynb)
 
-Various Python functions from Assignment 1 that I find useful run against my selected dataset, assembled into an IPython Notebook.
+Various Python functions from Assignment 4 that I find useful run against my selected dataset, assembled into an IPython Notebook.
 
 #### <a name="broman"></a>[Networks](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab9/lab_9.ipynb)
 
-Various Python functions from Assignment 1 that I find useful run against my selected dataset, assembled into an IPython Notebook.
+Various Python functions from Assignment 4 that I find useful run against my selected dataset, assembled into an IPython Notebook.
 
 #### <a name="broman"></a>[MachineLearning](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab10/Lab_10.ipynb)
 
-Various Python functions from Assignment 1 that I find useful run against my selected dataset, assembled into an IPython Notebook.
+Various Python functions from Assignment 4 that I find useful run against my selected dataset, assembled into an IPython Notebook.
 
 #### <a name="qtl"></a>[R/qtl](http://www.rqtl.org)
 
