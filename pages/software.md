@@ -7,14 +7,44 @@ description: Karl Broman's software
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
-            <li><a href="https://github.com/kbroman">github</a></li>
-            <li><a href="http://www.rqtl.org">R/qtl</a></li>
-            <li><a href="http://kbroman.org/qtlcharts">R/qtlcharts</a></li>
+            <li><a href="https://github.com/kbroman">Test1</a></li>
+            <li><a href="http://www.rqtl.org">Test2/a></li>
+            <li><a href="http://kbroman.org/qtlcharts">Test3</a></li>
         </ul>
     </div>
 </div>
 
 ---
+
+#### <a name="broman"></a>[EDA/Matplotlib](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab3/lab3full.ipynb)
+
+Various Python functions from Assignment 1 that I find useful run against my selected dataset, assembled into an IPython Notebook.
+
+
+#### <a name="broman"></a>[Regression/PCA](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab4/Lab4full.ipynb)
+
+Various Python functions from Assignment 1 that I find useful run against my selected dataset, assembled into an IPython Notebook.
+
+
+#### <a name="broman"></a>[Bias, Variance, Cross-Validation](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab5/Lab5.ipynb)
+
+Various Python functions from Assignment 1 that I find useful run against my selected dataset, assembled into an IPython Notebook.
+
+#### <a name="broman"></a>[Bayes/Linear Regression](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab6/BayesLinear.ipynb)
+
+Various Python functions from Assignment 1 that I find useful run against my selected dataset, assembled into an IPython Notebook.
+
+#### <a name="broman"></a>[MapReduce](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab8/lab8_mapreduce.ipynb)
+
+Various Python functions from Assignment 1 that I find useful run against my selected dataset, assembled into an IPython Notebook.
+
+#### <a name="broman"></a>[Networks](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab9/lab_9.ipynb)
+
+Various Python functions from Assignment 1 that I find useful run against my selected dataset, assembled into an IPython Notebook.
+
+#### <a name="broman"></a>[MachineLearning](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab10/Lab_10.ipynb)
+
+Various Python functions from Assignment 1 that I find useful run against my selected dataset, assembled into an IPython Notebook.
 
 #### <a name="qtl"></a>[R/qtl](http://www.rqtl.org)
 
