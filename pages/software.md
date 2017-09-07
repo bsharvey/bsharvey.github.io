@@ -19,6 +19,7 @@ description: Karl Broman's software
 #### <a name="broman"></a>[EDA/Matplotlib](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab3/lab3full.ipynb)
 
 Various Python functions from Assignment 1 that I find useful run against my selected dataset, assembled into an IPython Notebook.
+Link to the [EDA/Matplotlib Repositiory](https://github.com/bsharvey/EDA) tools for analyzing Big Data.
 
 
 #### <a name="broman"></a>[Regression/PCA](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab4/Lab4full.ipynb)
