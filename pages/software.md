@@ -1,6 +1,6 @@
 ---
 layout: page
-title: software
+title: ToolKit
 description: Karl Broman's software
 ---
 
