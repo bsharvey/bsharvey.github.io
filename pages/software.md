@@ -8,7 +8,7 @@ description: Karl Broman's software
     <div class="navbar-inner">
         <ul class="nav">
             <li><a href="https://github.com/kbroman">Test1</a></li>
-            <li><a href="http://www.rqtl.org">Test2/a></li>
+            <li><a href="http://www.rqtl.org">Test2/<a></li>
             <li><a href="http://kbroman.org/qtlcharts">Test3</a></li>
         </ul>
     </div>
