@@ -20,7 +20,7 @@ description: Ben Harvey's assignments
 </div>
 
 
-### <a name="deeplearning"></a>[deep learning]
+### <a name="deeplearning"></a>deep learning
 #### <a name="qtl"></a>[R/qtl](http://www.rqtl.org)
 [R/qtl discussion](http://groups.google.com/group/Rqtl-disc)
 
@@ -32,7 +32,7 @@ description: Ben Harvey's assignments
 
 ---
 
-### <a name="machinelearning"></a>[machine learning]
+### <a name="machinelearning"></a>machine learning
 #### <a name="qtl"></a>[R/qtl](http://www.rqtl.org)
 [R/qtl discussion](http://groups.google.com/group/Rqtl-disc)
 
@@ -41,46 +41,14 @@ description: Ben Harvey's assignments
 
 ---
 
-### <a name="networkanalysis"></a>[network analysis]
+### <a name="networkanalysis"></a>network analysis
 #### <a name="qtl"></a>[R/qtl](http://www.rqtl.org)
 [R/qtl discussion](http://groups.google.com/group/Rqtl-disc)
 
 
 ---
 
-### <a name="scientificcomputing"></a>[scientific computing]
-#### <a name="qtl"></a>[R/qtl](http://www.rqtl.org)
-[R/qtl discussion](http://groups.google.com/group/Rqtl-disc)
-
-#### <a name="qtl"></a>[R/qtl](http://www.rqtl.org)
-[R/qtl discussion](http://groups.google.com/group/Rqtl-disc)
-
-
----
-
-### <a name="statisticalanalysis"></a>[statistic alanalysis]
-#### <a name="qtl"></a>[R/qtl](http://www.rqtl.org)
-[R/qtl discussion](http://groups.google.com/group/Rqtl-disc)
-
-
----
-
-### <a name="textprocessing"></a>[text processing]
-#### <a name="qtl"></a>[R/qtl](http://www.rqtl.org)
-[R/qtl discussion](http://groups.google.com/group/Rqtl-disc)
-
-#### <a name="qtl"></a>[R/qtl](http://www.rqtl.org)
-[R/qtl discussion](http://groups.google.com/group/Rqtl-disc)
-
----
-
-### <a name="visualization"></a>[visualization]
-#### <a name="qtl"></a>[R/qtl](http://www.rqtl.org)
-[R/qtl discussion](http://groups.google.com/group/Rqtl-disc)
-
-#### <a name="qtl"></a>[R/qtl](http://www.rqtl.org)
-[R/qtl discussion](http://groups.google.com/group/Rqtl-disc)
-
+### <a name="scientificcomputing"></a>scientific computing
 #### <a name="qtl"></a>[R/qtl](http://www.rqtl.org)
 [R/qtl discussion](http://groups.google.com/group/Rqtl-disc)
 
@@ -90,7 +58,29 @@ description: Ben Harvey's assignments
 
 ---
 
-### <a name="webscraping"></a>[web scraping]
+### <a name="statisticalanalysis"></a>statistic alanalysis
+#### <a name="qtl"></a>[R/qtl](http://www.rqtl.org)
+[R/qtl discussion](http://groups.google.com/group/Rqtl-disc)
+
+
+---
+
+### <a name="textprocessing"></a>text processing
+#### <a name="qtl"></a>[R/qtl](http://www.rqtl.org)
+[R/qtl discussion](http://groups.google.com/group/Rqtl-disc)
+
+#### <a name="qtl"></a>[R/qtl](http://www.rqtl.org)
+[R/qtl discussion](http://groups.google.com/group/Rqtl-disc)
+
+---
+
+### <a name="visualization"></a>visualization
+#### <a name="qtl"></a>[R/qtl](http://www.rqtl.org)
+[R/qtl discussion](http://groups.google.com/group/Rqtl-disc)
+
+#### <a name="qtl"></a>[R/qtl](http://www.rqtl.org)
+[R/qtl discussion](http://groups.google.com/group/Rqtl-disc)
+
 #### <a name="qtl"></a>[R/qtl](http://www.rqtl.org)
 [R/qtl discussion](http://groups.google.com/group/Rqtl-disc)
 
@@ -99,7 +89,17 @@ description: Ben Harvey's assignments
 
 
 ---
-### <a name="R Packages"></a>[R Packages]
+
+### <a name="webscraping"></a>web scraping
+#### <a name="qtl"></a>[R/qtl](http://www.rqtl.org)
+[R/qtl discussion](http://groups.google.com/group/Rqtl-disc)
+
+#### <a name="qtl"></a>[R/qtl](http://www.rqtl.org)
+[R/qtl discussion](http://groups.google.com/group/Rqtl-disc)
+
+
+---
+### <a name="R Packages"></a>R Packages
 #### <a name="qtl"></a>[R/qtl](http://www.rqtl.org)
 
 An [R](http://www.r-project.org/) package with tools for analyzing QTL experiments.
