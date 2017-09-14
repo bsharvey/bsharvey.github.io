@@ -15,6 +15,7 @@ description: Karl Broman's tutorials
 - [hipsteR](http://kbroman.org/hipsteR/): re-educating people who learned R before it was cool
 
 ---
+title: tutorials
 
 - [intro to R](http://www.biostat.wisc.edu/~kbroman/Rintro)
   \[not really a tutorial, but there are some useful links here\]
