@@ -18,10 +18,11 @@ description: Karl Broman's teaching
 
 ### <a name="current"></a>Current courses
 
-#### [Data Analytics Introduction and Practicum](http://kbroman.org/Tools4RR) (EMSE 6992; Fall, 2017)
+#### [Data Analytics Introduction and Practicum](http://bsharvey.github.io) (EMSE 6992; Fall, 2017)
 
-- [Schedule](http://kbroman.org/Tools4RR/pages/schedule.html)
-- [Resources and further reading](http://kbroman.org/Tools4RR/pages/resources.html)
+- [Schedule](https://bsharvey.github.io/pages/teaching.html)
+- [Lectures](https://bsharvey.github.io/pages/teaching.html)
+- [Resources and further reading](https://bsharvey.github.io/pages/teaching.html)
 
 
 ---
