@@ -1,6 +1,6 @@
 ---
 layout: page
-title: assignments
+title: Data Analytics ToolKit
 description: Ben Harvey's assignments
 ---
 
@@ -20,39 +20,86 @@ description: Ben Harvey's assignments
 </div>
 
 
-### <a name="deeplearning"></a>deep learning
+### <a name="deeplearning"></a>[deep learning]
+#### <a name="qtl"></a>[R/qtl](http://www.rqtl.org)
+[R/qtl discussion](http://groups.google.com/group/Rqtl-disc)
 
-#### [Data Analytics Introduction and Practicum](http://kbroman.org/Tools4RR) (EMSE 6992; Fall, 2017)
-- [Schedule](http://kbroman.org/Tools4RR/pages/schedule.html)
-- [Resources and further reading](http://kbroman.org/Tools4RR/pages/resources.html)
+#### <a name="qtl"></a>[R/qtl](http://www.rqtl.org)
+[R/qtl discussion](http://groups.google.com/group/Rqtl-disc)
+
+#### <a name="qtl"></a>[R/qtl](http://www.rqtl.org)
+[R/qtl discussion](http://groups.google.com/group/Rqtl-disc)
+
+---
+
+### <a name="machinelearning"></a>[machine learning]
+#### <a name="qtl"></a>[R/qtl](http://www.rqtl.org)
+[R/qtl discussion](http://groups.google.com/group/Rqtl-disc)
+
+#### <a name="qtl"></a>[R/qtl](http://www.rqtl.org)
+[R/qtl discussion](http://groups.google.com/group/Rqtl-disc)
+
+---
+
+### <a name="networkanalysis"></a>[network analysis]
+#### <a name="qtl"></a>[R/qtl](http://www.rqtl.org)
+[R/qtl discussion](http://groups.google.com/group/Rqtl-disc)
 
 
 ---
 
-### <a name="machinelearning"></a>machine learning
+### <a name="scientificcomputing"></a>[scientific computing]
+#### <a name="qtl"></a>[R/qtl](http://www.rqtl.org)
+[R/qtl discussion](http://groups.google.com/group/Rqtl-disc)
+
+#### <a name="qtl"></a>[R/qtl](http://www.rqtl.org)
+[R/qtl discussion](http://groups.google.com/group/Rqtl-disc)
+
 
 ---
 
-### <a name="networkanalysis"></a>network analysis
+### <a name="statisticalanalysis"></a>[statistic alanalysis]
+#### <a name="qtl"></a>[R/qtl](http://www.rqtl.org)
+[R/qtl discussion](http://groups.google.com/group/Rqtl-disc)
+
 
 ---
 
-### <a name="scientificcomputing"></a>scientific computing
+### <a name="textprocessing"></a>[text processing]
+#### <a name="qtl"></a>[R/qtl](http://www.rqtl.org)
+[R/qtl discussion](http://groups.google.com/group/Rqtl-disc)
+
+#### <a name="qtl"></a>[R/qtl](http://www.rqtl.org)
+[R/qtl discussion](http://groups.google.com/group/Rqtl-disc)
 
 ---
 
-### <a name="statisticalanalysis"></a>statistic alanalysis
+### <a name="visualization"></a>[visualization]
+#### <a name="qtl"></a>[R/qtl](http://www.rqtl.org)
+[R/qtl discussion](http://groups.google.com/group/Rqtl-disc)
+
+#### <a name="qtl"></a>[R/qtl](http://www.rqtl.org)
+[R/qtl discussion](http://groups.google.com/group/Rqtl-disc)
+
+#### <a name="qtl"></a>[R/qtl](http://www.rqtl.org)
+[R/qtl discussion](http://groups.google.com/group/Rqtl-disc)
+
+#### <a name="qtl"></a>[R/qtl](http://www.rqtl.org)
+[R/qtl discussion](http://groups.google.com/group/Rqtl-disc)
+
 
 ---
 
-### <a name="textprocessing"></a>text processing
+### <a name="webscraping"></a>[web scraping]
+#### <a name="qtl"></a>[R/qtl](http://www.rqtl.org)
+[R/qtl discussion](http://groups.google.com/group/Rqtl-disc)
+
+#### <a name="qtl"></a>[R/qtl](http://www.rqtl.org)
+[R/qtl discussion](http://groups.google.com/group/Rqtl-disc)
+
 
 ---
-
-### <a name="webscraping"></a>webs craping
-
-Various Python functions from Assignment 4 that I find useful run against my selected dataset, assembled into an IPython Notebook.
-
+### <a name="R Packages"></a>[R Packages]
 #### <a name="qtl"></a>[R/qtl](http://www.rqtl.org)
 
 An [R](http://www.r-project.org/) package with tools for analyzing QTL experiments.
