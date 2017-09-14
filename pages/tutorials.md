@@ -15,7 +15,7 @@ description: Ben Harvey's assignments
 </div>
 
 
-### <a name="Data"></a>data
+### <a name="Data"></a>Data
 #### <a name="Government Open Data"></a>[data.gov.in](http://www.rqtl.org)
 {Add description of example an library here}
 
@@ -103,7 +103,7 @@ description: Ben Harvey's assignments
 [data repository](http://groups.google.com/group/Rqtl-disc)
 ---
 
-### <a name="Tutorials"></a>data
+### <a name="Tutorials"></a>Tutorials
 - [initial steps toward reproducible research](http://kbroman.org/steps2rr)
 - [organizing data in spreadsheets](http://kbroman.org/dataorg)
 - [git/github guide](http://kbroman.org/github_tutorial)
@@ -124,6 +124,6 @@ description: Ben Harvey's assignments
 - [top ten worst graphs](https://www.biostat.wisc.edu/~kbroman/topten_worstgraphs/)
 
 
-### <a name="Miscelaneous"></a>data
+### <a name="Miscelaneous"></a>Miscelaneous
 
 
