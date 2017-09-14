@@ -1,9 +1,109 @@
 ---
 layout: page
-title: tutorials
-description: Karl Broman's tutorials
+title: Data Analytics ToolKit
+description: Ben Harvey's assignments
 ---
 
+<div class="navbar">
+    <div class="navbar-inner">
+        <ul class="nav">
+            <li><a href="#Data">Data</a></li>
+            <li><a href="#Tutorials">Tutorials</a></li>
+            <li><a href="#Miscelaneous">Miscelaneous</a></li>
+        </ul>
+    </div>
+</div>
+
+
+### <a name="Data"></a>data
+#### <a name="Government Open Data"></a>[data.gov.in](http://www.rqtl.org)
+{Add description of example an library here}
+
+[data.gov.in data example](http://groups.google.com/group/Rqtl-disc)
+[data repository](http://groups.google.com/group/Rqtl-disc)
+
+#### <a name="qtl"></a>[World Band](http://www.rqtl.org)
+{Add description of example an library here}
+
+[World Bank data example](http://groups.google.com/group/Rqtl-disc)
+[data repository](http://groups.google.com/group/Rqtl-disc)
+
+#### <a name="qtl"></a>[Reserve Bank India](http://www.rqtl.org)
+{Add description of example an library here}
+
+[data example](http://groups.google.com/group/Rqtl-disc)
+[data repository](http://groups.google.com/group/Rqtl-disc)
+
+#### <a name="qtl"></a>[Five Thirty Eight Datasets](http://www.rqtl.org)
+{Add description of example an library here}
+
+[data example](http://groups.google.com/group/Rqtl-disc)
+[data repository](http://groups.google.com/group/Rqtl-disc)
+
+
+#### <a name="qtl"></a>[AWS dataset](http://www.rqtl.org)
+{Add description of example an library here}
+
+[data example](http://groups.google.com/group/Rqtl-disc)
+[data repository](http://groups.google.com/group/Rqtl-disc)
+
+
+
+#### <a name="qtl"></a>[Google datasets](http://www.rqtl.org)
+{Add description of example an library here}
+
+[data example](http://groups.google.com/group/Rqtl-disc)
+[data repository](http://groups.google.com/group/Rqtl-disc)
+
+
+
+#### <a name="qtl"></a>[Youtube labeled Video datasets](http://www.rqtl.org)
+{Add description of example an library here}
+
+[data example](http://groups.google.com/group/Rqtl-disc)
+[data repository](http://groups.google.com/group/Rqtl-disc)
+
+
+#### <a name="qtl"></a>[UCI Machine Learning Repisitory](http://www.rqtl.org)
+{Add description of example an library here}
+
+[data example](http://groups.google.com/group/Rqtl-disc)
+[data repository](http://groups.google.com/group/Rqtl-disc)
+
+#### <a name="qtl"></a>[Kaggle](http://www.rqtl.org)
+{Add description of example an library here}
+
+[data example](http://groups.google.com/group/Rqtl-disc)
+[data repository](http://groups.google.com/group/Rqtl-disc)
+
+#### <a name="qtl"></a>[Analytics Vidhya](http://www.rqtl.org)
+{Add description of example an library here}
+
+[data example](http://groups.google.com/group/Rqtl-disc)
+[data repository](http://groups.google.com/group/Rqtl-disc)
+
+#### <a name="qtl"></a>[Qandl](http://www.rqtl.org)
+{Add description of example an library here}
+
+[data example](http://groups.google.com/group/Rqtl-disc)
+[data repository](http://groups.google.com/group/Rqtl-disc)
+
+
+#### <a name="qtl"></a>[Past KDD Cups](http://www.rqtl.org)
+{Add description of example an library here}
+
+[data example](http://groups.google.com/group/Rqtl-disc)
+[data repository](http://groups.google.com/group/Rqtl-disc)
+
+
+#### <a name="qtl"></a>[Driven Data](http://www.rqtl.org)
+{Add description of example an library here}
+
+[data example](http://groups.google.com/group/Rqtl-disc)
+[data repository](http://groups.google.com/group/Rqtl-disc)
+---
+
+### <a name="Tutorials"></a>data
 - [initial steps toward reproducible research](http://kbroman.org/steps2rr)
 - [organizing data in spreadsheets](http://kbroman.org/dataorg)
 - [git/github guide](http://kbroman.org/github_tutorial)
@@ -14,11 +114,6 @@ description: Karl Broman's tutorials
   website with [GitHub Pages](http://pages.github.com)
 - [hipsteR](http://kbroman.org/hipsteR/): re-educating people who learned R before it was cool
 
----
-layout: page
-title: tutorials
-description: Karl Broman's tutorials
----
 
 - [intro to R](http://www.biostat.wisc.edu/~kbroman/Rintro)
   \[not really a tutorial, but there are some useful links here\]
@@ -27,3 +122,8 @@ description: Karl Broman's tutorials
 - [intro to C](http://www.biostat.wisc.edu/~kbroman/Cintro)
   \[not really a tutorial, but it includes a list of C programming books\]
 - [top ten worst graphs](https://www.biostat.wisc.edu/~kbroman/topten_worstgraphs/)
+
+
+### <a name="Miscelaneous"></a>data
+
+
