@@ -24,7 +24,7 @@ description: Ben Harvey's assignments
 
 
 #### <a name="deeplearning"></a>deep learning
-{Add description of example an library here}
+{Add description of example an assignment here}
 
 [assignment results](http://groups.google.com/group/Rqtl-disc)
 [assignment repository](http://groups.google.com/group/Rqtl-disc)
@@ -33,7 +33,7 @@ description: Ben Harvey's assignments
 
 
 #### <a name="machinelearning"></a>machine learning
-{Add description of example an library here}
+{Add description of example an assignment here}
 
 [assignment results](http://groups.google.com/group/Rqtl-disc)
 [assignment repositiory](http://groups.google.com/group/Rqtl-disc)
@@ -42,7 +42,7 @@ description: Ben Harvey's assignments
 
 
 #### <a name="networkanalysis"></a>network analysis
-{Add description of example an library here}
+{Add description of example an assignment here}
 
 [assignment example](http://groups.google.com/group/Rqtl-disc)
 [assignment repository](http://groups.google.com/group/Rqtl-disc)
@@ -50,7 +50,7 @@ description: Ben Harvey's assignments
 ---
 
 #### <a name="scientificcomputing"></a>scientific computing
-{Add description of example an library here}
+{Add description of example an assignment here}
 
 [assignment example](http://groups.google.com/group/Rqtl-disc)
 [assignment repository](http://groups.google.com/group/Rqtl-disc)
@@ -59,7 +59,7 @@ description: Ben Harvey's assignments
 
 
 #### <a name="statisticalanalysis"></a>statistic alanalysis
-{Add description of example an library here}
+{Add description of example an assignment here}
 
 [assignment example](http://groups.google.com/group/Rqtl-disc)
 [assignment repository](http://groups.google.com/group/Rqtl-disc)
@@ -68,7 +68,7 @@ description: Ben Harvey's assignments
 
 
 #### <a name="textprocessing"></a>text processing
-{Add description of example an library here}
+{Add description of example an assignment here}
 
 [assignment example](http://groups.google.com/group/Rqtl-disc)
 [assignment repository](http://groups.google.com/group/Rqtl-disc)
@@ -77,7 +77,7 @@ description: Ben Harvey's assignments
 
 
 #### <a name="webscraping"></a>webs craping
-{Add description of example an library here}
+{Add description of example an assignment here}
 
 [assignment example](http://groups.google.com/group/Rqtl-disc)
 [assignment repository](http://groups.google.com/group/Rqtl-disc)
@@ -86,7 +86,7 @@ description: Ben Harvey's assignments
 
 
 #### <a name="bigdataanalytics"></a>big data analytics
-{Add description of example an library here}
+{Add description of example an assignment here}
 
 [assignment example](http://groups.google.com/group/Rqtl-disc)
 [assignment repository](http://groups.google.com/group/Rqtl-disc)
