@@ -24,36 +24,75 @@ description: Ben Harvey's assignments
 
 
 #### <a name="deeplearning"></a>deep learning
+{Add description of example an library here}
+
+[assignment results](http://groups.google.com/group/Rqtl-disc)
+[assignment repository](http://groups.google.com/group/Rqtl-disc)
 
 ---
+
 
 #### <a name="machinelearning"></a>machine learning
+{Add description of example an library here}
+
+[assignment results](http://groups.google.com/group/Rqtl-disc)
+[assignment repositiory](http://groups.google.com/group/Rqtl-disc)
 
 ---
 
+
 #### <a name="networkanalysis"></a>network analysis
+{Add description of example an library here}
+
+[assignment example](http://groups.google.com/group/Rqtl-disc)
+[assignment repository](http://groups.google.com/group/Rqtl-disc)
 
 ---
 
 #### <a name="scientificcomputing"></a>scientific computing
+{Add description of example an library here}
+
+[assignment example](http://groups.google.com/group/Rqtl-disc)
+[assignment repository](http://groups.google.com/group/Rqtl-disc)
 
 ---
+
+
 #### <a name="statisticalanalysis"></a>statistic alanalysis
+{Add description of example an library here}
+
+[assignment example](http://groups.google.com/group/Rqtl-disc)
+[assignment repository](http://groups.google.com/group/Rqtl-disc)
 
 ---
+
 
 #### <a name="textprocessing"></a>text processing
+{Add description of example an library here}
+
+[assignment example](http://groups.google.com/group/Rqtl-disc)
+[assignment repository](http://groups.google.com/group/Rqtl-disc)
 
 ---
 
+
 #### <a name="webscraping"></a>webs craping
+{Add description of example an library here}
+
+[assignment example](http://groups.google.com/group/Rqtl-disc)
+[assignment repository](http://groups.google.com/group/Rqtl-disc)
 
 ---
 
 
 #### <a name="bigdataanalytics"></a>big data analytics
+{Add description of example an library here}
+
+[assignment example](http://groups.google.com/group/Rqtl-disc)
+[assignment repository](http://groups.google.com/group/Rqtl-disc)
 
 ---
+
 
 #### <a name="exampleassignments"></a>example assignments
 
