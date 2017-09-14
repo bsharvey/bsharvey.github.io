@@ -34,9 +34,9 @@ description: Ben Harvey's assignments
 ---
 
 #### <a name="scientificcomputing"></a>scientific computing
-* [Assignment 1b: EDA, Pandas, Matplotlib](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab3/lab3full.ipynb)
----
 
+---
+* [Assignment 1b: EDA, Pandas, Matplotlib](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab3/lab3full.ipynb)
 #### <a name="statisticalanalysis"></a>statistic alanalysis
 
 ---
