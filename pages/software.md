@@ -1,49 +1,55 @@
 ---
 layout: page
-title: ToolKit
-description: Karl Broman's software
+title: assignments
+description: Ben Harvey's assignments
 ---
 
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
-            <li><a href="https://github.com/kbroman">Test1</a></li>
-            <li><a href="http://www.rqtl.org">Test2</a></li>
-            <li><a href="http://kbroman.org/qtlcharts">Test3</a></li>
+            <li><a href="#deeplearning">deep learning</a></li>
+            <li><a href="#machinelearning">machine learning</a></li>
+            <li><a href="#networkanalysis">network analysis</a></li>
+            <li><a href="#scientificcomputing">scientific computing</a></li>
+            <li><a href="#statisticalanalysis">statistical analysis</a></li>
+            <li><a href="#textprocessing">text processing</a></li>
+            <li><a href="#visualization">visualization</a></li>
+            <li><a href="#webscraping">web scraping</a></li>
         </ul>
     </div>
 </div>
 
+
+### <a name="deeplearning"></a>deep learning
+
+#### [Data Analytics Introduction and Practicum](http://kbroman.org/Tools4RR) (EMSE 6992; Fall, 2017)
+- [Schedule](http://kbroman.org/Tools4RR/pages/schedule.html)
+- [Resources and further reading](http://kbroman.org/Tools4RR/pages/resources.html)
+
+
 ---
 
-#### <a name="broman"></a>[EDA/Matplotlib](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab3/lab3full.ipynb)
+### <a name="machinelearning"></a>machine learning
 
-Various Python functions from Assignment 1 that I find useful run against my selected dataset, assembled into an IPython Notebook.
-Link to the [EDA/Matplotlib Repositiory](https://github.com/bsharvey/EDA) tools for analyzing Big Data.
+---
 
+### <a name="networkanalysis"></a>network analysis
 
-#### <a name="broman"></a>[Regression/PCA](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab4/Lab4full.ipynb)
+---
 
-Various Python functions from Assignment 2 that I find useful run against my selected dataset, assembled into an IPython Notebook.
+### <a name="scientificcomputing"></a>scientific computing
 
+---
 
-#### <a name="broman"></a>[Bias, Variance, Cross-Validation](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab5/Lab5.ipynb)
+### <a name="statisticalanalysis"></a>statistic alanalysis
 
-Various Python functions from Assignment 3 that I find useful run against my selected dataset, assembled into an IPython Notebook.
+---
 
-#### <a name="broman"></a>[Bayes/Linear Regression](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab6/BayesLinear.ipynb)
+### <a name="textprocessing"></a>text processing
 
-Various Python functions from Assignment 3 that I find useful run against my selected dataset, assembled into an IPython Notebook.
+---
 
-#### <a name="broman"></a>[MapReduce](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab8/lab8_mapreduce.ipynb)
-
-Various Python functions from Assignment 4 that I find useful run against my selected dataset, assembled into an IPython Notebook.
-
-#### <a name="broman"></a>[Networks](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab9/lab_9.ipynb)
-
-Various Python functions from Assignment 4 that I find useful run against my selected dataset, assembled into an IPython Notebook.
-
-#### <a name="broman"></a>[MachineLearning](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab10/Lab_10.ipynb)
+### <a name="webscraping"></a>webs craping
 
 Various Python functions from Assignment 4 that I find useful run against my selected dataset, assembled into an IPython Notebook.
 
