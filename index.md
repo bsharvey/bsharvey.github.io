@@ -4,9 +4,7 @@ title: Benjamin Harvey
 description: Benjamin Harvey is an Adjunct Professor at The George Washington University. He teaches a Data Analytis Introduction and Practicum course.
 keywords: Broman, QTL, R/qtl, quantitative trait loci, statistics, statistical genetics, recombination
 ---
-<head>
-  <title>Page Title</title>
-</head>
+
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
@@ -17,6 +15,8 @@ keywords: Broman, QTL, R/qtl, quantitative trait loci, statistics, statistical g
       </ul>
   </div>
 </div>
+
+### <a name="Portfolio"></a>Portfolio
 
 <table class="wide">
 <tr>
