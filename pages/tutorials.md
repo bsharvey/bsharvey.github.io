@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Data Analytics ToolKit
+title: Resources
 description: Ben Harvey's assignments
 ---
 
