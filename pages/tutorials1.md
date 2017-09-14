@@ -34,7 +34,7 @@ description: Ben Harvey's assignments
 ---
 
 #### <a name="scientificcomputing"></a>scientific computing
-
+* [Assignment 1b: EDA, Pandas, Matplotlib](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab3/lab3full.ipynb)
 ---
 
 #### <a name="statisticalanalysis"></a>statistic alanalysis
@@ -46,12 +46,12 @@ description: Ben Harvey's assignments
 ---
 
 #### <a name="webscraping"></a>webs craping
-
-
-
-
 * [Assignment 1a: Web Scraping](https://github.com/cs109/content/tree/master/labs/lab2)
-* [Assignment 1b: EDA, Pandas, Matplotlib](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab3/lab3full.ipynb)
+
+
+
+
+
 * [Assignment 2: Scikit-Learn, Regression, PCA](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab4/Lab4full.ipynb)
 * [Assignment 3a: Bias, Variance, Cross-Validation](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab5/Lab5.ipynb)
 * [Assignment 3b: Bayes, Linear Regression, and Metropolis Sampling](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab6/BayesLinear.ipynb)
