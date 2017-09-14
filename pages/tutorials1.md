@@ -4,6 +4,7 @@ title: assignments
 description: Ben Harvey's assignments
 ---
 
+
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
@@ -20,34 +21,34 @@ description: Ben Harvey's assignments
 </div>
 
 
-### <a name="deeplearning"></a>deep learning
+#### <a name="deeplearning"></a>deep learning
 
 ---
 
-### <a name="machinelearning"></a>machine learning
+#### <a name="machinelearning"></a>machine learning
 
 ---
 
-### <a name="networkanalysis"></a>network analysis
+#### <a name="networkanalysis"></a>network analysis
 
 ---
 
-### <a name="scientificcomputing"></a>scientific computing
+#### <a name="scientificcomputing"></a>scientific computing
 
 ---
 
-### <a name="statisticalanalysis"></a>statistic alanalysis
+#### <a name="statisticalanalysis"></a>statistic alanalysis
 
 ---
 
-### <a name="textprocessing"></a>text processing
+#### <a name="textprocessing"></a>text processing
 
 ---
 
-### <a name="webscraping"></a>webs craping
+#### <a name="webscraping"></a>webs craping
 
 
-- ## EMSE6992 Assignments
+
 
 * [Assignment 1a: Web Scraping](https://github.com/cs109/content/tree/master/labs/lab2)
 * [Assignment 1b: EDA, Pandas, Matplotlib](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab3/lab3full.ipynb)
