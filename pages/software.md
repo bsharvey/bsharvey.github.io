@@ -58,7 +58,7 @@ description: Ben Harvey's assignments
 ---
 
 ### <a name="networkanalysis"></a>network analysis
-#### <a name="qtl"></a>[R/qtl](http://www.rqtl.org)
+#### <a name="qtl"></a>[networkx](http://www.rqtl.org)
 {Add description of example an library here}
 
 [networkx example](http://groups.google.com/group/Rqtl-disc)
