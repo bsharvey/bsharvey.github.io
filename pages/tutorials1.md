@@ -22,11 +22,6 @@ description: Ben Harvey's assignments
 
 ### <a name="deeplearning"></a>deep learning
 
-#### [Data Analytics Introduction and Practicum](http://kbroman.org/Tools4RR) (EMSE 6992; Fall, 2017)
-- [Schedule](http://kbroman.org/Tools4RR/pages/schedule.html)
-- [Resources and further reading](http://kbroman.org/Tools4RR/pages/resources.html)
-
-
 ---
 
 ### <a name="machinelearning"></a>machine learning
