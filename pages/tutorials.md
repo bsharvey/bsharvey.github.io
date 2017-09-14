@@ -15,8 +15,8 @@ description: Ben Harvey's assignments
 </div>
 
 
-### <a name="Data"></a>Data
-#### <a name="Government Open Data"></a>[data.gov.in](http://www.rqtl.org)
+## <a name="Data"></a>Data
+#### <a name="Government Open Data"></a>[data.gov.in](https://data.gov.in/)
 {Add description of example an library here}
 
 [data.gov.in data example](http://groups.google.com/group/Rqtl-disc)
@@ -24,7 +24,7 @@ description: Ben Harvey's assignments
 
 ---
 
-#### <a name="qtl"></a>[World Band](http://www.rqtl.org)
+#### <a name="qtl"></a>[World Band](http://data.worldbank.org/)
 {Add description of example an library here}
 
 [World Bank data example](http://groups.google.com/group/Rqtl-disc)
@@ -32,7 +32,7 @@ description: Ben Harvey's assignments
 
 ---
 
-#### <a name="qtl"></a>[Reserve Bank India](http://www.rqtl.org)
+#### <a name="qtl"></a>[Reserve Bank India](https://rbi.org.in/Scripts/Statistics.aspx)
 {Add description of example an library here}
 
 [data example](http://groups.google.com/group/Rqtl-disc)
@@ -40,7 +40,7 @@ description: Ben Harvey's assignments
 
 ---
 
-#### <a name="qtl"></a>[Five Thirty Eight Datasets](http://www.rqtl.org)
+#### <a name="qtl"></a>[Five Thirty Eight Datasets](https://github.com/fivethirtyeight/data)
 {Add description of example an library here}
 
 [data example](http://groups.google.com/group/Rqtl-disc)
@@ -48,7 +48,7 @@ description: Ben Harvey's assignments
 
 ---
 
-#### <a name="qtl"></a>[AWS dataset](http://www.rqtl.org)
+#### <a name="qtl"></a>[AWS dataset](https://aws.amazon.com/datasets/)
 {Add description of example an library here}
 
 [data example](http://groups.google.com/group/Rqtl-disc)
@@ -56,7 +56,7 @@ description: Ben Harvey's assignments
 
 ---
 
-#### <a name="qtl"></a>[Google datasets](http://www.rqtl.org)
+#### <a name="qtl"></a>[Google datasets](https://cloud.google.com/bigquery/public-data/)
 {Add description of example an library here}
 
 [data example](http://groups.google.com/group/Rqtl-disc)
@@ -64,7 +64,7 @@ description: Ben Harvey's assignments
 
 ---
 
-#### <a name="qtl"></a>[Youtube labeled Video datasets](http://www.rqtl.org)
+#### <a name="qtl"></a>[Youtube labeled Video datasets](https://research.google.com/youtube8m/)
 {Add description of example an library here}
 
 [data example](http://groups.google.com/group/Rqtl-disc)
@@ -72,7 +72,7 @@ description: Ben Harvey's assignments
 
 ---
 
-#### <a name="qtl"></a>[UCI Machine Learning Repisitory](http://www.rqtl.org)
+#### <a name="qtl"></a>[UCI Machine Learning Repisitory](https://archive.ics.uci.edu/ml/datasets.html)
 {Add description of example an library here}
 
 [data example](http://groups.google.com/group/Rqtl-disc)
@@ -80,7 +80,7 @@ description: Ben Harvey's assignments
 
 ---
 
-#### <a name="qtl"></a>[Kaggle](http://www.rqtl.org)
+#### <a name="qtl"></a>[Kaggle](https://www.kaggle.com/datasets)
 {Add description of example an library here}
 
 [data example](http://groups.google.com/group/Rqtl-disc)
@@ -88,7 +88,7 @@ description: Ben Harvey's assignments
 
 ---
 
-#### <a name="qtl"></a>[Analytics Vidhya](http://www.rqtl.org)
+#### <a name="qtl"></a>[Analytics Vidhya](https://datahack.analyticsvidhya.com/contest/all/)
 {Add description of example an library here}
 
 [data example](http://groups.google.com/group/Rqtl-disc)
@@ -96,7 +96,7 @@ description: Ben Harvey's assignments
 
 ---
 
-#### <a name="qtl"></a>[Qandl](http://www.rqtl.org)
+#### <a name="qtl"></a>[Qandl](https://www.quandl.com/)
 {Add description of example an library here}
 
 [data example](http://groups.google.com/group/Rqtl-disc)
@@ -104,7 +104,7 @@ description: Ben Harvey's assignments
 
 ---
 
-#### <a name="qtl"></a>[Past KDD Cups](http://www.rqtl.org)
+#### <a name="qtl"></a>[Past KDD Cups](http://www.kdd.org/kdd-cup)
 {Add description of example an library here}
 
 [data example](http://groups.google.com/group/Rqtl-disc)
@@ -112,7 +112,7 @@ description: Ben Harvey's assignments
 
 ---
 
-#### <a name="qtl"></a>[Driven Data](http://www.rqtl.org)
+#### <a name="qtl"></a>[Driven Data](https://www.drivendata.org/)
 {Add description of example an library here}
 
 [data example](http://groups.google.com/group/Rqtl-disc)
@@ -121,7 +121,7 @@ description: Ben Harvey's assignments
 ---
 
 
-### <a name="Tutorials"></a>Tutorials
+## <a name="Tutorials"></a>Tutorials
 - [initial steps toward reproducible research](http://kbroman.org/steps2rr)
 - [organizing data in spreadsheets](http://kbroman.org/dataorg)
 - [git/github guide](http://kbroman.org/github_tutorial)
@@ -142,6 +142,6 @@ description: Ben Harvey's assignments
 - [top ten worst graphs](https://www.biostat.wisc.edu/~kbroman/topten_worstgraphs/)
 
 
-### <a name="Miscelaneous"></a>Miscelaneous
+## <a name="Miscelaneous"></a>Miscelaneous
 ---
 
