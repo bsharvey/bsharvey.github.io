@@ -1,8 +1,7 @@
-
 ---
 layout: page
-title: teaching
-description: Karl Broman's teaching
+title: assignments
+description: Ben Harvey's assignments
 ---
 
 <div class="navbar">
