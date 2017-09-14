@@ -21,81 +21,105 @@ description: Ben Harvey's assignments
 
 
 ### <a name="deeplearning"></a>deep learning
-#### <a name="qtl"></a>[R/qtl](http://www.rqtl.org)
-[R/qtl discussion](http://groups.google.com/group/Rqtl-disc)
+#### <a name="qtl"></a>[theano](http://www.rqtl.org)
+[numpy example](http://groups.google.com/group/Rqtl-disc)
+[numpy repository](http://groups.google.com/group/Rqtl-disc)
 
-#### <a name="qtl"></a>[R/qtl](http://www.rqtl.org)
-[R/qtl discussion](http://groups.google.com/group/Rqtl-disc)
+#### <a name="qtl"></a>[tensorflow](http://www.rqtl.org)
+[tensorflow example](http://groups.google.com/group/Rqtl-disc)
+[tensorflow repository](http://groups.google.com/group/Rqtl-disc)
 
-#### <a name="qtl"></a>[R/qtl](http://www.rqtl.org)
-[R/qtl discussion](http://groups.google.com/group/Rqtl-disc)
+#### <a name="qtl"></a>[keras](http://www.rqtl.org)
+[keras example](http://groups.google.com/group/Rqtl-disc)
+[keras repository](http://groups.google.com/group/Rqtl-disc)
 
 ---
 
 ### <a name="machinelearning"></a>machine learning
-#### <a name="qtl"></a>[R/qtl](http://www.rqtl.org)
-[R/qtl discussion](http://groups.google.com/group/Rqtl-disc)
+#### <a name="qtl"></a>[mlpy](http://www.rqtl.org)
+[mlpy example](http://groups.google.com/group/Rqtl-disc)
+[mlpy repository](http://groups.google.com/group/Rqtl-disc)
 
-#### <a name="qtl"></a>[R/qtl](http://www.rqtl.org)
-[R/qtl discussion](http://groups.google.com/group/Rqtl-disc)
+#### <a name="qtl"></a>[sci-kit-learn](http://www.rqtl.org)
+[scikit-learn](http://groups.google.com/group/Rqtl-disc)
+[scikit-learn](http://groups.google.com/group/Rqtl-disc)
 
 ---
 
 ### <a name="networkanalysis"></a>network analysis
 #### <a name="qtl"></a>[R/qtl](http://www.rqtl.org)
-[R/qtl discussion](http://groups.google.com/group/Rqtl-disc)
+[networkx example](http://groups.google.com/group/Rqtl-disc)
+[networkx repository](http://groups.google.com/group/Rqtl-disc)
 
 
 ---
 
 ### <a name="scientificcomputing"></a>scientific computing
-#### <a name="qtl"></a>[R/qtl](http://www.rqtl.org)
-[R/qtl discussion](http://groups.google.com/group/Rqtl-disc)
+#### <a name="qtl"></a>[numpy](http://www.rqtl.org)
+[numpy examples](http://groups.google.com/group/Rqtl-disc)
+[numpy repository](http://groups.google.com/group/Rqtl-disc)
 
-#### <a name="qtl"></a>[R/qtl](http://www.rqtl.org)
-[R/qtl discussion](http://groups.google.com/group/Rqtl-disc)
+
+#### <a name="qtl"></a>[scipy](http://www.rqtl.org)
+[scipy example](http://groups.google.com/group/Rqtl-disc)
+[scipy repository](http://groups.google.com/group/Rqtl-disc)
 
 
 ---
 
 ### <a name="statisticalanalysis"></a>statistic alanalysis
-#### <a name="qtl"></a>[R/qtl](http://www.rqtl.org)
-[R/qtl discussion](http://groups.google.com/group/Rqtl-disc)
+#### <a name="qtl"></a>[statsmodels](http://www.rqtl.org)
+[statsmodels example](http://groups.google.com/group/Rqtl-disc)
+[statsmodels repository](http://groups.google.com/group/Rqtl-disc)
 
 
 ---
 
 ### <a name="textprocessing"></a>text processing
-#### <a name="qtl"></a>[R/qtl](http://www.rqtl.org)
-[R/qtl discussion](http://groups.google.com/group/Rqtl-disc)
+#### <a name="qtl"></a>[nlkt](http://www.rqtl.org)
+[nlkt example](http://groups.google.com/group/Rqtl-disc)
+[nlkt repository](http://groups.google.com/group/Rqtl-disc)
 
-#### <a name="qtl"></a>[R/qtl](http://www.rqtl.org)
-[R/qtl discussion](http://groups.google.com/group/Rqtl-disc)
+
+#### <a name="qtl"></a>[gensim](http://www.rqtl.org)
+[gensim example](http://groups.google.com/group/Rqtl-disc)
+[gensim repository](http://groups.google.com/group/Rqtl-disc)
+
 
 ---
 
 ### <a name="visualization"></a>visualization
-#### <a name="qtl"></a>[R/qtl](http://www.rqtl.org)
-[R/qtl discussion](http://groups.google.com/group/Rqtl-disc)
+#### <a name="qtl"></a>[bokeh](http://www.rqtl.org)
+[bokeh example](http://groups.google.com/group/Rqtl-disc)
+[bokeh repository](http://groups.google.com/group/Rqtl-disc)
 
-#### <a name="qtl"></a>[R/qtl](http://www.rqtl.org)
-[R/qtl discussion](http://groups.google.com/group/Rqtl-disc)
 
-#### <a name="qtl"></a>[R/qtl](http://www.rqtl.org)
-[R/qtl discussion](http://groups.google.com/group/Rqtl-disc)
+#### <a name="qtl"></a>[matpilotlib](http://www.rqtl.org)
+[matpilotlib example](http://groups.google.com/group/Rqtl-disc)
+[matpilotlib repository](http://groups.google.com/group/Rqtl-disc)
 
-#### <a name="qtl"></a>[R/qtl](http://www.rqtl.org)
-[R/qtl discussion](http://groups.google.com/group/Rqtl-disc)
+
+#### <a name="qtl"></a>[seaborn](http://www.rqtl.org)
+[seaborn example](http://groups.google.com/group/Rqtl-disc)
+[seaborn repository](http://groups.google.com/group/Rqtl-disc)
+
+
+#### <a name="qtl"></a>[plotly](http://www.rqtl.org)
+[plotly example](http://groups.google.com/group/Rqtl-disc)
+[plotly repository](http://groups.google.com/group/Rqtl-disc)
 
 
 ---
 
 ### <a name="webscraping"></a>web scraping
-#### <a name="qtl"></a>[R/qtl](http://www.rqtl.org)
-[R/qtl discussion](http://groups.google.com/group/Rqtl-disc)
+#### <a name="qtl"></a>[beautifulsoup](http://www.rqtl.org)
+[beautifulsoup example](http://groups.google.com/group/Rqtl-disc)
+[beautifulsoup repository](http://groups.google.com/group/Rqtl-disc)
 
-#### <a name="qtl"></a>[R/qtl](http://www.rqtl.org)
-[R/qtl discussion](http://groups.google.com/group/Rqtl-disc)
+
+#### <a name="qtl"></a>[scrapy](http://www.rqtl.org)
+[scrapy example](http://groups.google.com/group/Rqtl-disc)
+[scrapy repository](http://groups.google.com/group/Rqtl-disc)
 
 
 ---
