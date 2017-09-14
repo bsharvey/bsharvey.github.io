@@ -1,8 +1,57 @@
+
 ---
 layout: page
-title: Assignments
-description: Benjamin Harvey's Lab Assignments
+title: teaching
+description: Karl Broman's teaching
 ---
+
+<div class="navbar">
+    <div class="navbar-inner">
+        <ul class="nav">
+            <li><a href="#deeplearning">deep learning</a></li>
+            <li><a href="#machinelearning">machine learning</a></li>
+            <li><a href="#networkanalysis">network analysis</a></li>
+            <li><a href="#scientificcomputing">scientific computing</a></li>
+            <li><a href="#statisticalanalysis">statistical analysis</a></li>
+            <li><a href="#textprocessing">text processing</a></li>
+            <li><a href="#visualization">visualization</a></li>
+            <li><a href="#webscraping">web scraping</a></li>
+        </ul>
+    </div>
+</div>
+
+
+### <a name="deeplearning"></a>deep learning
+
+#### [Data Analytics Introduction and Practicum](http://kbroman.org/Tools4RR) (EMSE 6992; Fall, 2017)
+- [Schedule](http://kbroman.org/Tools4RR/pages/schedule.html)
+- [Resources and further reading](http://kbroman.org/Tools4RR/pages/resources.html)
+
+
+---
+
+### <a name="machinelearning"></a>machine learning
+
+---
+
+### <a name="networkanalysis"></a>network analysis
+
+---
+
+### <a name="scientificcomputing"></a>scientific computing
+
+---
+
+### <a name="statisticalanalysis"></a>statistic alanalysis
+
+---
+
+### <a name="textprocessing"></a>text processing
+
+---
+
+### <a name="webscraping"></a>webs craping
+
 
 - ## EMSE6992 Assignments
 
