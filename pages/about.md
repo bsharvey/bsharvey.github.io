@@ -8,7 +8,7 @@ description: Benjamin Harvey is...
 Dr. Benjamin Harvey currently serves as a Data Scientist for the Department of Defense (DoD) within the National Security Agency (NSA).  He is also part of the University of Maryland Medical Post-Baccalaureate program.
 
 
-#### <a name="currentposition"></a>current position
+#### <a name="previousposition"></a>previous positions
 Dr. Harvey joined the Agency in 2009 and was hired into the Cryptologic Computer Science Develop Program (CDP).  He graduated from the CDP in 2012 and was the first African American to finish the program.
 
 
