@@ -20,12 +20,17 @@ description: Ben Harvey's publications
 </div>
 
 
-### <a name="book"></a>book
+#### <a name="book"></a>book
+
+---
 
 
-### <a name="articles"></a>journal articles
+#### <a name="articles"></a>journal articles
 
-#### To appear
+---
+
+
+###### To appear
 
 **Harvey B*, Ji Soo-Yeon
 [The American Statistician](http://www.tandfonline.com/toc/utas20/current), to appear
@@ -33,7 +38,7 @@ description: Ben Harvey's publications
 [![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_DataOrg)
 <!-- * 148 * -->
 
-#### 2017
+###### 2017
 
 Harvey B, Ji Soo-Yeon,
 Payseur BA (2016) Genetics of skeletal evolution in unusually large mice
@@ -45,24 +50,32 @@ from Gough Island. [Genetics](http://genetics.org) 204:1559-1572
 <!-- https://doi.org/10.1534/genetics.116.193805 -->
 
 
+#### <a name="conferences"></a>conferences
 
-### <a name="conferences"></a>conferences
-
-
-
-### <a name="editorials"></a>editorials
+---
 
 
-### <a name="letters"></a>letters
+#### <a name="editorials"></a>editorials
+
+---
 
 
-### <a name="chapters"></a>proceedings and book chapters
+#### <a name="letters"></a>letters
+
+---
 
 
-### <a name="techreports"></a>technical reports
+#### <a name="chapters"></a>proceedings and book chapters
+
+---
 
 
-### <a name="thesis"></a>dissertation
+#### <a name="techreports"></a>technical reports
+
+---
+
+
+#### <a name="thesis"></a>dissertation
 
 **Harvey B** (2015) Cloud-Scale Genomic Signal Processing for 
 Robust Microarray Data Analysis.  
@@ -70,3 +83,7 @@ PhD dissertation, Department of Computer Science,
 Bowie State University
 [![Abstract](icons16/pubmed-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/thesis_abstract.html)
 [![pdf (653k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/thesis.pdf)
+
+---
+
+
