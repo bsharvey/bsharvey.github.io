@@ -37,8 +37,6 @@ description: Ben Harvey's assignments
 
 ---
 #### <a name="statisticalanalysis"></a>statistic alanalysis
-* [Assignment 1b: EDA, Pandas, Matplotlib](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab3/lab3full.ipynb)
-
 
 ---
 
