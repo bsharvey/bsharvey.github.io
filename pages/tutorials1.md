@@ -91,7 +91,7 @@ description: Ben Harvey's assignments
 
 ---
 
-### Other
+### Extra Credit Assignment
 #### <a name="webscraping"></a>webs craping
 {Add description of example an assignment here}
 
