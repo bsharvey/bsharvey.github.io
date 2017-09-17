@@ -8,6 +8,8 @@ description: Ben Harvey's assignments
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
+            <li><a href="#datamanipulationandaggregation">datamanipulationandaggregation</a></li>
+            <li><a href="#visualization">visualization</a></li>
             <li><a href="#deeplearning">deep learning</a></li>
             <li><a href="#machinelearning">machine learning</a></li>
             <li><a href="#networkanalysis">network analysis</a></li>
@@ -23,39 +25,29 @@ description: Ben Harvey's assignments
 </div>
 
 
-#### <a name="deeplearning"></a>deep learning
+### Assignment1
+#### <a name="datamanipulationandaggregation"></a>data maniuplation and aggregation
 {Add description of example an assignment here}
 
-[assignment results](http://groups.google.com/group/Rqtl-disc)
-[assignment repository](http://groups.google.com/group/Rqtl-disc)
+[assignment1 results](http://groups.google.com/group/Rqtl-disc)
+[assignment1 repository](http://groups.google.com/group/Rqtl-disc)
+
+
+#### <a name="visualization"></a>visualization
+{Add description of example an assignment here}
+
+[assignment1 results](http://groups.google.com/group/Rqtl-disc)
+[assignment1 repositiory](http://groups.google.com/group/Rqtl-disc)
 
 ---
 
 
-#### <a name="machinelearning"></a>machine learning
-{Add description of example an assignment here}
-
-[assignment results](http://groups.google.com/group/Rqtl-disc)
-[assignment repositiory](http://groups.google.com/group/Rqtl-disc)
-
----
-
-
-#### <a name="networkanalysis"></a>network analysis
-{Add description of example an assignment here}
-
-[assignment example](http://groups.google.com/group/Rqtl-disc)
-[assignment repository](http://groups.google.com/group/Rqtl-disc)
-
----
-
+### Assignment2
 #### <a name="scientificcomputing"></a>scientific computing
 {Add description of example an assignment here}
 
 [assignment example](http://groups.google.com/group/Rqtl-disc)
 [assignment repository](http://groups.google.com/group/Rqtl-disc)
-
----
 
 
 #### <a name="statisticalanalysis"></a>statistic alanalysis
@@ -67,7 +59,31 @@ description: Ben Harvey's assignments
 ---
 
 
-#### <a name="textprocessing"></a>text processing
+### Assignment3
+#### <a name="deeplearning"></a>deep learning
+{Add description of example an assignment here}
+
+[assignment results](http://groups.google.com/group/Rqtl-disc)
+[assignment repository](http://groups.google.com/group/Rqtl-disc)
+
+
+#### <a name="machinelearning"></a>machine learning
+{Add description of example an assignment here}
+
+[assignment results](http://groups.google.com/group/Rqtl-disc)
+[assignment repositiory](http://groups.google.com/group/Rqtl-disc)
+
+---
+
+
+### Assignment4
+#### <a name="networkanalysis"></a>network analysis
+{Add description of example an assignment here}
+
+[assignment example](http://groups.google.com/group/Rqtl-disc)
+[assignment repository](http://groups.google.com/group/Rqtl-disc)
+
+#### <a name="bigdataanalytics"></a>big data analytics
 {Add description of example an assignment here}
 
 [assignment example](http://groups.google.com/group/Rqtl-disc)
@@ -75,17 +91,15 @@ description: Ben Harvey's assignments
 
 ---
 
-
+### Other
 #### <a name="webscraping"></a>webs craping
 {Add description of example an assignment here}
 
 [assignment example](http://groups.google.com/group/Rqtl-disc)
 [assignment repository](http://groups.google.com/group/Rqtl-disc)
 
----
 
-
-#### <a name="bigdataanalytics"></a>big data analytics
+#### <a name="textprocessing"></a>text processing
 {Add description of example an assignment here}
 
 [assignment example](http://groups.google.com/group/Rqtl-disc)
