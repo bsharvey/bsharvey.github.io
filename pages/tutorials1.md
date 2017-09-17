@@ -1,6 +1,6 @@
 ---
 layout: page
-title: EMSE 6992 assignments
+title: EMSE 6992 labs & assignments
 description: Ben Harvey's assignments
 ---
 
