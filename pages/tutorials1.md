@@ -46,15 +46,15 @@ description: Ben Harvey's assignments
 #### <a name="scientificcomputing"></a>scientific computing
 {Add description of example an assignment here}
 
-[assignment example](http://groups.google.com/group/Rqtl-disc)
-[assignment repository](http://groups.google.com/group/Rqtl-disc)
+[assignment2 results](http://groups.google.com/group/Rqtl-disc)
+[assignment2 repository](http://groups.google.com/group/Rqtl-disc)
 
 
 #### <a name="statisticalanalysis"></a>statistic alanalysis
 {Add description of example an assignment here}
 
-[assignment example](http://groups.google.com/group/Rqtl-disc)
-[assignment repository](http://groups.google.com/group/Rqtl-disc)
+[assignment2 results](http://groups.google.com/group/Rqtl-disc)
+[assignment2 repository](http://groups.google.com/group/Rqtl-disc)
 
 ---
 
@@ -63,15 +63,15 @@ description: Ben Harvey's assignments
 #### <a name="deeplearning"></a>deep learning
 {Add description of example an assignment here}
 
-[assignment results](http://groups.google.com/group/Rqtl-disc)
-[assignment repository](http://groups.google.com/group/Rqtl-disc)
+[assignment3 results](http://groups.google.com/group/Rqtl-disc)
+[assignment3 repository](http://groups.google.com/group/Rqtl-disc)
 
 
 #### <a name="machinelearning"></a>machine learning
 {Add description of example an assignment here}
 
-[assignment results](http://groups.google.com/group/Rqtl-disc)
-[assignment repositiory](http://groups.google.com/group/Rqtl-disc)
+[assignment3 results](http://groups.google.com/group/Rqtl-disc)
+[assignment3 repositiory](http://groups.google.com/group/Rqtl-disc)
 
 ---
 
@@ -80,14 +80,14 @@ description: Ben Harvey's assignments
 #### <a name="networkanalysis"></a>network analysis
 {Add description of example an assignment here}
 
-[assignment example](http://groups.google.com/group/Rqtl-disc)
-[assignment repository](http://groups.google.com/group/Rqtl-disc)
+[assignment4 example](http://groups.google.com/group/Rqtl-disc)
+[assignment4 repository](http://groups.google.com/group/Rqtl-disc)
 
 #### <a name="bigdataanalytics"></a>big data analytics
 {Add description of example an assignment here}
 
-[assignment example](http://groups.google.com/group/Rqtl-disc)
-[assignment repository](http://groups.google.com/group/Rqtl-disc)
+[assignment4 example](http://groups.google.com/group/Rqtl-disc)
+[assignment4 repository](http://groups.google.com/group/Rqtl-disc)
 
 ---
 
@@ -95,27 +95,30 @@ description: Ben Harvey's assignments
 #### <a name="webscraping"></a>webs craping
 {Add description of example an assignment here}
 
-[assignment example](http://groups.google.com/group/Rqtl-disc)
-[assignment repository](http://groups.google.com/group/Rqtl-disc)
+[EC assignment results](http://groups.google.com/group/Rqtl-disc)
+[EC assignment repository](http://groups.google.com/group/Rqtl-disc)
 
 
 #### <a name="textprocessing"></a>text processing
 {Add description of example an assignment here}
 
-[assignment example](http://groups.google.com/group/Rqtl-disc)
-[assignment repository](http://groups.google.com/group/Rqtl-disc)
+[EC assignment results](http://groups.google.com/group/Rqtl-disc)
+[EC assignment repository](http://groups.google.com/group/Rqtl-disc)
 
 ---
 
 
 #### <a name="labassignments"></a>lab assignments
 
-* [Assignment 1a: Web Scraping](https://github.com/cs109/content/tree/master/labs/lab2)
-* [Assignment 2: Scikit-Learn, Regression, PCA](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab4/Lab4full.ipynb)
-* [Assignment 3a: Bias, Variance, Cross-Validation](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab5/Lab5.ipynb)
-* [Assignment 3b: Bayes, Linear Regression, and Metropolis Sampling](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab6/BayesLinear.ipynb)
-* [Assignment 4a: MapReduce](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab8/lab8_mapreduce.ipynb)
-* [Assignment 4b: Networks](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab9/lab_9.ipynb)
-* [Assignment 4c: Support Vector Machines](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab10/Lab_10.ipynb)
+* [Lab 1a: Web Scraping](https://github.com/cs109/content/tree/master/labs/lab2)
+* [Lab 1b: Exploratory Data Analysis for Classification using Pandas and Matplotlib](https://github.com/cs109/content/blob/master/labs/lab3/lab3full.ipynb)
+* [Lab 2a: Scikit-Learn, Regression, PCA](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab4/Lab4full.ipynb)
+* [Lab 2b: Bias, Variance, Cross-Validation](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab5/Lab5.ipynb)
+* [Lab 3a: Bayes, Linear Regression, and Metropolis Sampling](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab6/BayesLinear.ipynb)
+* [Lab 3b: Support Vector Machines](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab10/Lab_10.ipynb)
+* [Lab 4a: Networks](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab9/lab_9.ipynb)
+* [Lab 4b: MapReduce](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab8/lab8_mapreduce.ipynb)
+
+
 
 ---
