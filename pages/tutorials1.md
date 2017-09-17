@@ -19,7 +19,7 @@ description: Ben Harvey's assignments
             <li><a href="#visualization">visualization</a></li>
             <li><a href="#webscraping">web scraping</a></li>
             <li><a href="#bigdataanalytics">big data analytics</a></li>
-            <li><a href="#exampleassignments">example assignments</a></li>
+            <li><a href="#labassignments">lab assignments</a></li>
         </ul>
     </div>
 </div>
@@ -108,7 +108,7 @@ description: Ben Harvey's assignments
 ---
 
 
-#### <a name="exampleassignments"></a>example assignments
+#### <a name="labassignments"></a>lab assignments
 
 * [Assignment 1a: Web Scraping](https://github.com/cs109/content/tree/master/labs/lab2)
 * [Assignment 2: Scikit-Learn, Regression, PCA](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab4/Lab4full.ipynb)
