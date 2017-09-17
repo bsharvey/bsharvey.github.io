@@ -8,7 +8,7 @@ description: Ben Harvey's assignments
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
-            <li><a href="#datamanipulationandaggregation">datamanipulationandaggregation</a></li>
+            <li><a href="#datamanipulationandaggregation">datamanipulation & aggregation</a></li>
             <li><a href="#visualization">visualization</a></li>
             <li><a href="#deeplearning">deep learning</a></li>
             <li><a href="#machinelearning">machine learning</a></li>
