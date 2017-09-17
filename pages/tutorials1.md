@@ -18,8 +18,8 @@ description: Ben Harvey's assignments
             <li><a href="#textprocessing">text processing</a></li>
             <li><a href="#visualization">visualization</a></li>
             <li><a href="#webscraping">web scraping</a></li>
-            <li><a href="#exampleassignments">example assignments</a></li>
             <li><a href="#bigdataanalytics">big data analytics</a></li>
+            <li><a href="#exampleassignments">example assignments</a></li>
         </ul>
     </div>
 </div>
