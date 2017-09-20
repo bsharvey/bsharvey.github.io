@@ -19,7 +19,7 @@ Dr. Harvey conducted research at Harvard-Massachusetts Institute of Technology (
 Dr. Harvey graduated from Mississippi Valley State University in 2008 with a B.S. in Pre-Medicine & Computer Science.  He received a Master of Science in Computer Science from Bowie State University in 2011 and Doctorate of Science in Computer Science from Bowie State University in 2015. His dissertation was entitled “Cloud Scale Genomic Signals Processing for Robust Microarray Data Analysis.”  He also holds a Cryptologic Computer Science Certificate from the University of Maryland Baltimore County (UMBC) in conjunction with the Naval Post-Graduate School (NPS).  
 
 #### <a name="cvandresume"></a>cv and resume
-[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/broman_cv.pdf)
+[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/bsharvey_cv.pdf)
 
 ---
 
