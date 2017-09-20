@@ -31,15 +31,12 @@ description: Ben Harvey's assignments
 * [Exploratory Data Analysis for Classification using Pandas and Matplotlib](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab3/lab3full.ipynb)
 {Add description of example an assignment here}
 
-[assignment1 results](http://groups.google.com/group/Rqtl-disc)
-[assignment1 repository](http://groups.google.com/group/Rqtl-disc)
-
 
 ##### <a name="visualization"></a>visualization
 * [Exploratory Data Analysis for Classification using Pandas and Matplotlib](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab3/lab3full.ipynb)
 {Add description of example an assignment here}
 
-[assignment1 results](http://groups.google.com/group/Rqtl-disc)
+[assignment1](http://groups.google.com/group/Rqtl-disc)
 [assignment1 repositiory](http://groups.google.com/group/Rqtl-disc)
 
 ---
@@ -50,16 +47,13 @@ description: Ben Harvey's assignments
 * [Scikit-Learn, Regression, PCA](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab4/Lab4full.ipynb)
 {Add description of example an assignment here}
 
-[assignment2 results](http://groups.google.com/group/Rqtl-disc)
-[assignment2 repository](http://groups.google.com/group/Rqtl-disc)
-
 
 ##### <a name="statisticalanalysis"></a>statistic alanalysis
 * [Bias, Variance, Cross-Validation](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab5/Lab5.ipynb)
 * [Bayes, Linear Regression, and Metropolis Sampling](https://github.com/bsharvey/EMSEDataAnalytics/tree/master/EMSE6992_Labs/lab6)
 {Add description of example an assignment here}
 
-[assignment2 results](http://groups.google.com/group/Rqtl-disc)
+[assignment2](http://groups.google.com/group/Rqtl-disc)
 [assignment2 repository](http://groups.google.com/group/Rqtl-disc)
 
 ---
@@ -70,15 +64,12 @@ description: Ben Harvey's assignments
 * [Neural Networks](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab10/Lab_10.ipynb)
 {Add description of example an assignment here}
 
-[assignment3 results](http://groups.google.com/group/Rqtl-disc)
-[assignment3 repository](http://groups.google.com/group/Rqtl-disc)
-
 
 ##### <a name="machinelearning"></a>machine learning part2
 * [Support Vector Machines](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab10/Lab_10.ipynb)
 {Add description of example an assignment here}
 
-[assignment3 results](http://groups.google.com/group/Rqtl-disc)
+[assignment3](http://groups.google.com/group/Rqtl-disc)
 [assignment3 repositiory](http://groups.google.com/group/Rqtl-disc)
 
 ---
@@ -89,14 +80,12 @@ description: Ben Harvey's assignments
 [Networks](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab9/lab_9_with_answers.ipynb)
 {Add description of example an assignment here}
 
-[assignment4 example](http://groups.google.com/group/Rqtl-disc)
-[assignment4 repository](http://groups.google.com/group/Rqtl-disc)
 
 ##### <a name="bigdataanalytics"></a>big data analytics
 * [MapReduce](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab8/lab8_mapreduce.ipynb)
 {Add description of example an assignment here}
 
-[assignment4 example](http://groups.google.com/group/Rqtl-disc)
+[assignment4](http://groups.google.com/group/Rqtl-disc)
 [assignment4 repository](http://groups.google.com/group/Rqtl-disc)
 
 ---
@@ -106,14 +95,11 @@ description: Ben Harvey's assignments
 * [Web Scraping](https://github.com/cs109/content/tree/master/labs/lab2)
 {Add description of example an assignment here}
 
-[EC assignment results](http://groups.google.com/group/Rqtl-disc)
-[EC assignment repository](http://groups.google.com/group/Rqtl-disc)
-
 
 ##### <a name="textprocessing"></a>text processing
 {Add description of example an assignment here}
 
-[EC assignment results](http://groups.google.com/group/Rqtl-disc)
+[EC assignment](http://groups.google.com/group/Rqtl-disc)
 [EC assignment repository](http://groups.google.com/group/Rqtl-disc)
 
 ---
