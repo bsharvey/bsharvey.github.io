@@ -28,7 +28,7 @@ description: Ben Harvey's assignments
 ### EMSE 6992 Assignments
 #### Assignment1
 ##### <a name="datamanipulationandaggregation"></a>data maniuplation and aggregation
-* [Exploratory Data Analysis for Classification using Pandas and Matplotlib](https://github.com/cs109/content/blob/master/labs/lab3/lab3full.ipynb)
+* [Exploratory Data Analysis for Classification using Pandas and Matplotlib](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab3/lab3full.ipynb)
 {Add description of example an assignment here}
 
 [assignment1 results](http://groups.google.com/group/Rqtl-disc)
@@ -36,7 +36,7 @@ description: Ben Harvey's assignments
 
 
 ##### <a name="visualization"></a>visualization
-* [Exploratory Data Analysis for Classification using Pandas and Matplotlib](https://github.com/cs109/content/blob/master/labs/lab3/lab3full.ipynb)
+* [Exploratory Data Analysis for Classification using Pandas and Matplotlib](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab3/lab3full.ipynb)
 {Add description of example an assignment here}
 
 [assignment1 results](http://groups.google.com/group/Rqtl-disc)
@@ -47,7 +47,7 @@ description: Ben Harvey's assignments
 
 #### Assignment2
 ##### <a name="scientificcomputing"></a>scientific computing
-* [Scikit-Learn, Regression, PCA](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab4/Lab4full.ipynb)
+* [Scikit-Learn, Regression, PCA](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab4/Lab4full.ipynb)
 {Add description of example an assignment here}
 
 [assignment2 results](http://groups.google.com/group/Rqtl-disc)
@@ -55,8 +55,8 @@ description: Ben Harvey's assignments
 
 
 ##### <a name="statisticalanalysis"></a>statistic alanalysis
-* [Bias, Variance, Cross-Validation](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab5/Lab5.ipynb)
-* [Bayes, Linear Regression, and Metropolis Sampling](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab6/BayesLinear.ipynb)
+* [Bias, Variance, Cross-Validation](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab5/Lab5.ipynb)
+* [Bayes, Linear Regression, and Metropolis Sampling](https://github.com/bsharvey/EMSEDataAnalytics/tree/master/EMSE6992_Labs/lab6)
 {Add description of example an assignment here}
 
 [assignment2 results](http://groups.google.com/group/Rqtl-disc)
@@ -67,7 +67,7 @@ description: Ben Harvey's assignments
 
 #### Assignment3
 ##### <a name="deeplearning"></a>machine learning part1
-* [Neural Networks](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab10/Lab_10.ipynb)
+* [Neural Networks](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab10/Lab_10.ipynb)
 {Add description of example an assignment here}
 
 [assignment3 results](http://groups.google.com/group/Rqtl-disc)
@@ -75,7 +75,7 @@ description: Ben Harvey's assignments
 
 
 ##### <a name="machinelearning"></a>machine learning part2
-* [Support Vector Machines](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab10/Lab_10.ipynb)
+* [Support Vector Machines](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab10/Lab_10.ipynb)
 {Add description of example an assignment here}
 
 [assignment3 results](http://groups.google.com/group/Rqtl-disc)
@@ -86,14 +86,14 @@ description: Ben Harvey's assignments
 
 #### Assignment4
 ##### <a name="networkanalysis"></a>network analysis
-[Networks](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab9/lab_9.ipynb)
+[Networks](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab9/lab_9_with_answers.ipynb)
 {Add description of example an assignment here}
 
 [assignment4 example](http://groups.google.com/group/Rqtl-disc)
 [assignment4 repository](http://groups.google.com/group/Rqtl-disc)
 
 ##### <a name="bigdataanalytics"></a>big data analytics
-* [MapReduce](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab8/lab8_mapreduce.ipynb)
+* [MapReduce](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab8/lab8_mapreduce.ipynb)
 {Add description of example an assignment here}
 
 [assignment4 example](http://groups.google.com/group/Rqtl-disc)
@@ -103,6 +103,7 @@ description: Ben Harvey's assignments
 
 #### Extra Credit Assignment
 ##### <a name="webscraping"></a>webs craping
+* [Web Scraping](https://github.com/cs109/content/tree/master/labs/lab2)
 {Add description of example an assignment here}
 
 [EC assignment results](http://groups.google.com/group/Rqtl-disc)
@@ -121,13 +122,13 @@ description: Ben Harvey's assignments
 ##### <a name="labassignments"></a>lab assignments
 
 * [Web Scraping](https://github.com/cs109/content/tree/master/labs/lab2)
-* [Exploratory Data Analysis for Classification using Pandas and Matplotlib](https://github.com/cs109/content/blob/master/labs/lab3/lab3full.ipynb)
-* [Scikit-Learn, Regression, PCA](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab4/Lab4full.ipynb)
-* [Bias, Variance, Cross-Validation](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab5/Lab5.ipynb)
-* [Bayes, Linear Regression, and Metropolis Sampling](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab6/BayesLinear.ipynb)
-* [Support Vector Machines](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab10/Lab_10.ipynb)
-* [Networks](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab9/lab_9.ipynb)
-* [MapReduce](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab8/lab8_mapreduce.ipynb)
+* [Exploratory Data Analysis for Classification using Pandas and Matplotlib](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab3/lab3full.ipynb)
+* [Scikit-Learn, Regression, PCA](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab4/Lab4full.ipynb)
+* [Bias, Variance, Cross-Validation](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab5/Lab5.ipynb)
+* [Bayes, Linear Regression, and Metropolis Sampling](https://github.com/bsharvey/EMSEDataAnalytics/tree/master/EMSE6992_Labs/lab6)
+* [Support Vector Machines](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab10/Lab_10.ipynb)
+* [Networks](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab9/lab_9_with_answers.ipynb)
+* [MapReduce](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab8/lab8_mapreduce.ipynb)
 
 
 
