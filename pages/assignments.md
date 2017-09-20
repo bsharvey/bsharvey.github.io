@@ -71,7 +71,7 @@ description: Ben Harvey's assignments
 
 ####  <a name="Assignment4"></a>Assignment4
 ##### <a name="networkanalysis"></a>network analysis
-[Lab: Networks](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab9/lab_9_with_answers.ipynb)
+* [Lab: Networks](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab9/lab_9_with_answers.ipynb)
 {Add description of example an assignment here}
 
 
@@ -90,7 +90,8 @@ description: Ben Harvey's assignments
 {Add description of example an assignment here}
 
 
-##### <a name="textprocessing"></a>text processing
+##### <a name="textprocessing"></a>sampling and text processing
+* [Lab: Sampling and Text Processing ](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab7/GibbsSampler.ipynb)
 {Add description of example an assignment here}
 
 [EC assignment](http://groups.google.com/group/Rqtl-disc)
