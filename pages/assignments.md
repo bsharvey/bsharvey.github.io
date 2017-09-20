@@ -23,6 +23,7 @@ description: Ben Harvey's assignments
 ####  <a name="Assignment1"></a>Assignment1
 ##### <a name="datamanipulationandaggregation"></a>data maniuplation and aggregation
 * [Lab: Exploratory Data Analysis for Classification using Pandas and Matplotlib](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab3/lab3full.ipynb)
+
 {Add description of example an assignment here}
 
 
@@ -40,12 +41,14 @@ description: Ben Harvey's assignments
 ####  <a name="Assignment2"></a>Assignment2
 ##### <a name="scientificcomputing"></a>scientific computing
 * [Lab: Scikit-Learn, Regression, PCA](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab4/Lab4full.ipynb)
+
 {Add description of example an assignment here}
 
 
 ##### <a name="statisticalanalysis"></a>statistic alanalysis
 * [Lab: Bias, Variance, Cross-Validation](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab5/Lab5.ipynb)
 * [Lab: Bayes, Linear Regression, and Metropolis Sampling](https://github.com/bsharvey/EMSEDataAnalytics/tree/master/EMSE6992_Labs/lab6)
+
 {Add description of example an assignment here}
 
 [assignment2]()
@@ -57,11 +60,13 @@ description: Ben Harvey's assignments
 ####  <a name="Assignment3"></a>Assignment3
 ##### <a name="deeplearning"></a>machine learning part1
 * [Lab: Neural Networks](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab10/Lab_10.ipynb)
+
 {Add description of example an assignment here}
 
 
 ##### <a name="machinelearning"></a>machine learning part2
 * [Lab: Support Vector Machines](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab10/Lab_10.ipynb)
+
 {Add description of example an assignment here}
 
 [assignment3]()
@@ -73,11 +78,13 @@ description: Ben Harvey's assignments
 ####  <a name="Assignment4"></a>Assignment4
 ##### <a name="networkanalysis"></a>network analysis
 * [Lab: Networks](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab9/lab_9_with_answers.ipynb)
+
 {Add description of example an assignment here}
 
 
 ##### <a name="bigdataanalytics"></a>big data analytics
 * [Lab: MapReduce](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab8/lab8_mapreduce.ipynb)
+
 {Add description of example an assignment here}
 
 [assignment4]()
@@ -87,12 +94,14 @@ description: Ben Harvey's assignments
 
 ####  <a name="ExtraCredit"></a>Extra Credit Assignment
 ##### <a name="webscraping"></a>webs craping
-* [Lab: Web Scraping](https://github.com/cs109/content/tree/master/labs/lab2)
+* [Lab: Web Scraping](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab2/Lab_2_A_Johanna.ipynb)
+
 {Add description of example an assignment here}
 
 
 ##### <a name="textprocessing"></a>sampling and text processing
 * [Lab: Sampling and Text Processing ](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab7/GibbsSampler.ipynb)
+
 {Add description of example an assignment here}
 
 [EC assignment]()
@@ -103,7 +112,7 @@ description: Ben Harvey's assignments
 #### EMSE 6992 Labs
 ##### <a name="labassignments"></a>lab assignments
 
-* [Web Scraping](https://github.com/cs109/content/tree/master/labs/lab2)
+* [Web Scraping](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab2/Lab_2_A_Johanna.ipynb)
 * [Exploratory Data Analysis for Classification using Pandas and Matplotlib](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab3/lab3full.ipynb)
 * [Scikit-Learn, Regression, PCA](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab4/Lab4full.ipynb)
 * [Bias, Variance, Cross-Validation](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab5/Lab5.ipynb)
