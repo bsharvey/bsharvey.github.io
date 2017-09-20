@@ -47,8 +47,8 @@ description: Ben Harvey's assignments
 * [Lab: Bayes, Linear Regression, and Metropolis Sampling](https://github.com/bsharvey/EMSEDataAnalytics/tree/master/EMSE6992_Labs/lab6)
 {Add description of example an assignment here}
 
-[assignment2](http://groups.google.com/group/Rqtl-disc)
-[assignment2 repository](http://groups.google.com/group/Rqtl-disc)
+[assignment2]()
+[assignment2 repository]()
 
 ---
 
@@ -63,8 +63,8 @@ description: Ben Harvey's assignments
 * [Lab: Support Vector Machines](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab10/Lab_10.ipynb)
 {Add description of example an assignment here}
 
-[assignment3](http://groups.google.com/group/Rqtl-disc)
-[assignment3 repositiory](http://groups.google.com/group/Rqtl-disc)
+[assignment3]()
+[assignment3 repositiory]()
 
 ---
 
@@ -79,8 +79,8 @@ description: Ben Harvey's assignments
 * [Lab: MapReduce](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab8/lab8_mapreduce.ipynb)
 {Add description of example an assignment here}
 
-[assignment4](http://groups.google.com/group/Rqtl-disc)
-[assignment4 repository](http://groups.google.com/group/Rqtl-disc)
+[assignment4]()
+[assignment4 repository]()
 
 ---
 
@@ -94,8 +94,8 @@ description: Ben Harvey's assignments
 * [Lab: Sampling and Text Processing ](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab7/GibbsSampler.ipynb)
 {Add description of example an assignment here}
 
-[EC assignment](http://groups.google.com/group/Rqtl-disc)
-[EC assignment repository](http://groups.google.com/group/Rqtl-disc)
+[EC assignment]()
+[EC assignment repository]()
 
 ---
 
