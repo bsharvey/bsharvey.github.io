@@ -28,6 +28,7 @@ description: Ben Harvey's assignments
 ### EMSE 6992 Assignments
 #### Assignment1
 ##### <a name="datamanipulationandaggregation"></a>data maniuplation and aggregation
+* [Exploratory Data Analysis for Classification using Pandas and Matplotlib](https://github.com/cs109/content/blob/master/labs/lab3/lab3full.ipynb)
 {Add description of example an assignment here}
 
 [assignment1 results](http://groups.google.com/group/Rqtl-disc)
@@ -35,6 +36,7 @@ description: Ben Harvey's assignments
 
 
 ##### <a name="visualization"></a>visualization
+* [Exploratory Data Analysis for Classification using Pandas and Matplotlib](https://github.com/cs109/content/blob/master/labs/lab3/lab3full.ipynb)
 {Add description of example an assignment here}
 
 [assignment1 results](http://groups.google.com/group/Rqtl-disc)
@@ -45,6 +47,7 @@ description: Ben Harvey's assignments
 
 #### Assignment2
 ##### <a name="scientificcomputing"></a>scientific computing
+* [Scikit-Learn, Regression, PCA](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab4/Lab4full.ipynb)
 {Add description of example an assignment here}
 
 [assignment2 results](http://groups.google.com/group/Rqtl-disc)
@@ -52,6 +55,8 @@ description: Ben Harvey's assignments
 
 
 ##### <a name="statisticalanalysis"></a>statistic alanalysis
+* [Bias, Variance, Cross-Validation](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab5/Lab5.ipynb)
+* [Bayes, Linear Regression, and Metropolis Sampling](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab6/BayesLinear.ipynb)
 {Add description of example an assignment here}
 
 [assignment2 results](http://groups.google.com/group/Rqtl-disc)
@@ -62,6 +67,7 @@ description: Ben Harvey's assignments
 
 #### Assignment3
 ##### <a name="deeplearning"></a>machine learning part1
+* [Neural Networks](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab10/Lab_10.ipynb)
 {Add description of example an assignment here}
 
 [assignment3 results](http://groups.google.com/group/Rqtl-disc)
@@ -69,6 +75,7 @@ description: Ben Harvey's assignments
 
 
 ##### <a name="machinelearning"></a>machine learning part2
+* [Support Vector Machines](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab10/Lab_10.ipynb)
 {Add description of example an assignment here}
 
 [assignment3 results](http://groups.google.com/group/Rqtl-disc)
@@ -79,12 +86,14 @@ description: Ben Harvey's assignments
 
 #### Assignment4
 ##### <a name="networkanalysis"></a>network analysis
+[Networks](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab9/lab_9.ipynb)
 {Add description of example an assignment here}
 
 [assignment4 example](http://groups.google.com/group/Rqtl-disc)
 [assignment4 repository](http://groups.google.com/group/Rqtl-disc)
 
 ##### <a name="bigdataanalytics"></a>big data analytics
+* [MapReduce](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab8/lab8_mapreduce.ipynb)
 {Add description of example an assignment here}
 
 [assignment4 example](http://groups.google.com/group/Rqtl-disc)
@@ -111,14 +120,14 @@ description: Ben Harvey's assignments
 #### EMSE 6992 Labs
 ##### <a name="labassignments"></a>lab assignments
 
-* [Lab 1a: Web Scraping](https://github.com/cs109/content/tree/master/labs/lab2)
-* [Lab 1b: Exploratory Data Analysis for Classification using Pandas and Matplotlib](https://github.com/cs109/content/blob/master/labs/lab3/lab3full.ipynb)
-* [Lab 2a: Scikit-Learn, Regression, PCA](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab4/Lab4full.ipynb)
-* [Lab 2b: Bias, Variance, Cross-Validation](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab5/Lab5.ipynb)
-* [Lab 3a: Bayes, Linear Regression, and Metropolis Sampling](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab6/BayesLinear.ipynb)
-* [Lab 3b: Support Vector Machines](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab10/Lab_10.ipynb)
-* [Lab 4a: Networks](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab9/lab_9.ipynb)
-* [Lab 4b: MapReduce](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab8/lab8_mapreduce.ipynb)
+* [Web Scraping](https://github.com/cs109/content/tree/master/labs/lab2)
+* [Exploratory Data Analysis for Classification using Pandas and Matplotlib](https://github.com/cs109/content/blob/master/labs/lab3/lab3full.ipynb)
+* [Scikit-Learn, Regression, PCA](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab4/Lab4full.ipynb)
+* [Bias, Variance, Cross-Validation](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab5/Lab5.ipynb)
+* [Bayes, Linear Regression, and Metropolis Sampling](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab6/BayesLinear.ipynb)
+* [Support Vector Machines](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab10/Lab_10.ipynb)
+* [Networks](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab9/lab_9.ipynb)
+* [MapReduce](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab8/lab8_mapreduce.ipynb)
 
 
 
