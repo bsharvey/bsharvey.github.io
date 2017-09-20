@@ -26,7 +26,7 @@ description: Ben Harvey's assignments
 
 
 ### EMSE 6992 Assignments
-#### Assignment1
+####  <a name="Assignment1"></a>Assignment1
 ##### <a name="datamanipulationandaggregation"></a>data maniuplation and aggregation
 * [Exploratory Data Analysis for Classification using Pandas and Matplotlib](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab3/lab3full.ipynb)
 {Add description of example an assignment here}
@@ -42,7 +42,7 @@ description: Ben Harvey's assignments
 ---
 
 
-#### Assignment2
+####  <a name="Assignment2"></a>Assignment2
 ##### <a name="scientificcomputing"></a>scientific computing
 * [Scikit-Learn, Regression, PCA](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab4/Lab4full.ipynb)
 {Add description of example an assignment here}
@@ -59,7 +59,7 @@ description: Ben Harvey's assignments
 ---
 
 
-#### Assignment3
+####  <a name="Assignment3"></a>Assignment3
 ##### <a name="deeplearning"></a>machine learning part1
 * [Neural Networks](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab10/Lab_10.ipynb)
 {Add description of example an assignment here}
@@ -75,7 +75,7 @@ description: Ben Harvey's assignments
 ---
 
 
-#### Assignment4
+####  <a name="Assignment4"></a>Assignment4
 ##### <a name="networkanalysis"></a>network analysis
 [Networks](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab9/lab_9_with_answers.ipynb)
 {Add description of example an assignment here}
@@ -90,7 +90,7 @@ description: Ben Harvey's assignments
 
 ---
 
-#### Extra Credit Assignment
+####  <a name="ExtraCredit"></a>Extra Credit Assignment
 ##### <a name="webscraping"></a>webs craping
 * [Web Scraping](https://github.com/cs109/content/tree/master/labs/lab2)
 {Add description of example an assignment here}
