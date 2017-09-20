@@ -1,6 +1,6 @@
 ---
 layout: page
-title: EMSE 6992 labs & assignments
+title: labs & assignments
 description: Ben Harvey's assignments
 ---
 
@@ -25,15 +25,16 @@ description: Ben Harvey's assignments
 </div>
 
 
-### Assignment1
-#### <a name="datamanipulationandaggregation"></a>data maniuplation and aggregation
+### EMSE 6992 Assignments
+#### Assignment1
+##### <a name="datamanipulationandaggregation"></a>data maniuplation and aggregation
 {Add description of example an assignment here}
 
 [assignment1 results](http://groups.google.com/group/Rqtl-disc)
 [assignment1 repository](http://groups.google.com/group/Rqtl-disc)
 
 
-#### <a name="visualization"></a>visualization
+##### <a name="visualization"></a>visualization
 {Add description of example an assignment here}
 
 [assignment1 results](http://groups.google.com/group/Rqtl-disc)
@@ -42,15 +43,15 @@ description: Ben Harvey's assignments
 ---
 
 
-### Assignment2
-#### <a name="scientificcomputing"></a>scientific computing
+#### Assignment2
+##### <a name="scientificcomputing"></a>scientific computing
 {Add description of example an assignment here}
 
 [assignment2 results](http://groups.google.com/group/Rqtl-disc)
 [assignment2 repository](http://groups.google.com/group/Rqtl-disc)
 
 
-#### <a name="statisticalanalysis"></a>statistic alanalysis
+##### <a name="statisticalanalysis"></a>statistic alanalysis
 {Add description of example an assignment here}
 
 [assignment2 results](http://groups.google.com/group/Rqtl-disc)
@@ -59,15 +60,15 @@ description: Ben Harvey's assignments
 ---
 
 
-### Assignment3
-#### <a name="deeplearning"></a>deep learning
+#### Assignment3
+##### <a name="deeplearning"></a>deep learning
 {Add description of example an assignment here}
 
 [assignment3 results](http://groups.google.com/group/Rqtl-disc)
 [assignment3 repository](http://groups.google.com/group/Rqtl-disc)
 
 
-#### <a name="machinelearning"></a>machine learning
+##### <a name="machinelearning"></a>machine learning
 {Add description of example an assignment here}
 
 [assignment3 results](http://groups.google.com/group/Rqtl-disc)
@@ -76,14 +77,14 @@ description: Ben Harvey's assignments
 ---
 
 
-### Assignment4
-#### <a name="networkanalysis"></a>network analysis
+#### Assignment4
+##### <a name="networkanalysis"></a>network analysis
 {Add description of example an assignment here}
 
 [assignment4 example](http://groups.google.com/group/Rqtl-disc)
 [assignment4 repository](http://groups.google.com/group/Rqtl-disc)
 
-#### <a name="bigdataanalytics"></a>big data analytics
+##### <a name="bigdataanalytics"></a>big data analytics
 {Add description of example an assignment here}
 
 [assignment4 example](http://groups.google.com/group/Rqtl-disc)
@@ -91,15 +92,15 @@ description: Ben Harvey's assignments
 
 ---
 
-### Extra Credit Assignment
-#### <a name="webscraping"></a>webs craping
+#### Extra Credit Assignment
+##### <a name="webscraping"></a>webs craping
 {Add description of example an assignment here}
 
 [EC assignment results](http://groups.google.com/group/Rqtl-disc)
 [EC assignment repository](http://groups.google.com/group/Rqtl-disc)
 
 
-#### <a name="textprocessing"></a>text processing
+##### <a name="textprocessing"></a>text processing
 {Add description of example an assignment here}
 
 [EC assignment results](http://groups.google.com/group/Rqtl-disc)
@@ -107,8 +108,8 @@ description: Ben Harvey's assignments
 
 ---
 
-
-#### <a name="labassignments"></a>lab assignments
+#### EMSE 6992 Labs
+##### <a name="labassignments"></a>lab assignments
 
 * [Lab 1a: Web Scraping](https://github.com/cs109/content/tree/master/labs/lab2)
 * [Lab 1b: Exploratory Data Analysis for Classification using Pandas and Matplotlib](https://github.com/cs109/content/blob/master/labs/lab3/lab3full.ipynb)
