@@ -61,14 +61,14 @@ description: Ben Harvey's assignments
 
 
 #### Assignment3
-##### <a name="deeplearning"></a>deep learning
+##### <a name="deeplearning"></a>machine learning part1
 {Add description of example an assignment here}
 
 [assignment3 results](http://groups.google.com/group/Rqtl-disc)
 [assignment3 repository](http://groups.google.com/group/Rqtl-disc)
 
 
-##### <a name="machinelearning"></a>machine learning
+##### <a name="machinelearning"></a>machine learning part2
 {Add description of example an assignment here}
 
 [assignment3 results](http://groups.google.com/group/Rqtl-disc)
