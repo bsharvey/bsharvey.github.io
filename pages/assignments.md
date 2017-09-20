@@ -8,18 +8,12 @@ description: Ben Harvey's assignments
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
-            <li><a href="#datamanipulationandaggregation">datamanipulation & aggregation</a></li>
-            <li><a href="#visualization">visualization</a></li>
-            <li><a href="#deeplearning">deep learning</a></li>
-            <li><a href="#machinelearning">machine learning</a></li>
-            <li><a href="#networkanalysis">network analysis</a></li>
-            <li><a href="#scientificcomputing">scientific computing</a></li>
-            <li><a href="#statisticalanalysis">statistical analysis</a></li>
-            <li><a href="#textprocessing">text processing</a></li>
-            <li><a href="#visualization">visualization</a></li>
-            <li><a href="#webscraping">web scraping</a></li>
-            <li><a href="#bigdataanalytics">big data analytics</a></li>
-            <li><a href="#labassignments">lab assignments</a></li>
+            <li><a href="#Assignment1">Assignment1</a></li>
+            <li><a href="#Assignment2">Assignment2</a></li>
+            <li><a href="#Assignment3">Assignment3</a></li>
+            <li><a href="#Assignment4">Assignment4</a></li>
+            <li><a href="#ExtraCredit">Extra Credit Assignment</a></li>
+            <li><a href="#labassignments">Lab Assignments</a></li>
         </ul>
     </div>
 </div>
