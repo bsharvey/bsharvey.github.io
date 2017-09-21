@@ -20,20 +20,30 @@ description: Ben Harvey's assignments
 
 
 ### EMSE 6992 Assignments
+####  <a name="Assignment0"></a>Assignment0
+##### <a name="introduction"></a>introduction
+* [Lab: Introduction to Python, Jupyter Notebooks, Github, and Portfolios](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Assignments/HW0.ipynb)
+ In this in class, we will be using a variety of tools that will require some initial configuration including Python, Jupyter Notebooks, Github, and your Portfolio. To ensure everything goes smoothly moving forward, we will setup the majority of those tools in this in class activity. 
+
+Assignment | Repository
+---|---
+[assignment0](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Assignments/HW0.ipynb)| [assignment1 repositiory](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Assignments)
+
 ####  <a name="Assignment1"></a>Assignment1
 ##### <a name="datamanipulationandaggregation"></a>data maniuplation and aggregation
 * [Lab: Exploratory Data Analysis for Classification using Pandas and Matplotlib](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab3/lab3full.ipynb)
-
-{Add description of example an assignment here}
-
+ In Part 1 of the assignment, the goals of this assignment are:
+    To practice data manipulation with Pandas
+    To develop intuition about the interplay of precision, accuracy, and bias when making predictions
+    To better understand how election forecasts are constructed
 
 ##### <a name="visualization"></a>visualization
 * [Lab: Exploratory Data Analysis for Classification using Pandas and Matplotlib](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab3/lab3full.ipynb)
+Applying different visualization techniques to Part 1
 
-{Add description of example an assignment here}
-
-[assignment1](http://groups.google.com/group/Rqtl-disc)
-[assignment1 repositiory](http://groups.google.com/group/Rqtl-disc)
+Assignment | Repository
+---|---
+[assignment1](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Assignments/HW1.ipynb)| [assignment1 repositiory](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Assignments)
 
 ---
 
@@ -51,8 +61,9 @@ description: Ben Harvey's assignments
 
 {Add description of example an assignment here}
 
-[assignment2]()
-[assignment2 repository]()
+| Assignment                | Repository                 |
+| ------------------------- |:--------------------------:|
+| [assignment2           ]()| [assignment2 repositiory]()|
 
 ---
 
@@ -69,10 +80,13 @@ description: Ben Harvey's assignments
 
 {Add description of example an assignment here}
 
-[assignment3]()
-[assignment3 repositiory]()
+
+| Assignment                | Repository                 |
+| ------------------------- |:--------------------------:|
+| [assignment3           ]()| [assignment3 repositiory]()|
 
 ---
+
 
 
 ####  <a name="Assignment4"></a>Assignment4
@@ -87,10 +101,13 @@ description: Ben Harvey's assignments
 
 {Add description of example an assignment here}
 
-[assignment4]()
-[assignment4 repository]()
+
+| Assignment                | Repository                 |
+| ------------------------- |:--------------------------:|
+| [assignment4           ]()| [assignment4 repositiory]()|
 
 ---
+
 
 ####  <a name="ExtraCredit"></a>Extra Credit Assignment
 ##### <a name="webscraping"></a>webs craping
@@ -104,10 +121,13 @@ description: Ben Harvey's assignments
 
 {Add description of example an assignment here}
 
-[EC assignment]()
-[EC assignment repository]()
+
+| Assignment                 | Repository                 |
+| -------------------------- |:--------------------------:|
+| [Extra Credit           ]()| [Extra Credit repositiory]()|
 
 ---
+
 
 #### EMSE 6992 Labs
 ##### <a name="labassignments"></a>lab assignments
