@@ -25,9 +25,12 @@ description: Ben Harvey's assignments
 * [Lab: Introduction to Python, Jupyter Notebooks, Github, and Portfolios](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Assignments/HW0.ipynb)
  In this in class, we will be using a variety of tools that will require some initial configuration including Python, Jupyter Notebooks, Github, and your Portfolio. To ensure everything goes smoothly moving forward, we will setup the majority of those tools in this in class activity. 
 
-Assignment | Repository
----|---
-[assignment0](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Assignments/HW0.ipynb)| [assignment1 repositiory](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Assignments)
+Assignment    |    Repository
+---   |   ---
+[assignment0](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Assignments/HW0.ipynb)   |    [assignment0 repositiory](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Assignments)
+
+---
+
 
 ####  <a name="Assignment1"></a>Assignment1
 ##### <a name="datamanipulationandaggregation"></a>data maniuplation and aggregation
@@ -41,9 +44,9 @@ Assignment | Repository
 * [Lab: Exploratory Data Analysis for Classification using Pandas and Matplotlib](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab3/lab3full.ipynb)
 Applying different visualization techniques to Part 1
 
-Assignment | Repository
----|---
-[assignment1](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Assignments/HW1.ipynb)| [assignment1 repositiory](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Assignments)
+Assignment    |    Repository
+---         ---
+[assignment1](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Assignments/HW1.ipynb)   |    [assignment1 repositiory](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Assignments)
 
 ---
 
