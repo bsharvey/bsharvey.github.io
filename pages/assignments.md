@@ -45,8 +45,8 @@ Assignment    |    Repository
 Applying different visualization techniques to Part 1
 
 Assignment    |    Repository
----         ---
-[assignment1](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Assignments/HW1.ipynb)   |    [assignment1 repositiory](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Assignments)
+---    |    ---
+[assignment1](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Assignments/HW1.ipynb)    |    [assignment1 repositiory](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Assignments)
 
 ---
 
