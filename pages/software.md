@@ -7,6 +7,7 @@ description: Ben Harvey's assignments
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
+            <li><a href="#datamanipulationandaggregation">datamanipulationandaggregation</a></li>
             <li><a href="#deeplearning">deep learning</a></li>
             <li><a href="#machinelearning">machine learning</a></li>
             <li><a href="#networkanalysis">network analysis</a></li>
@@ -20,6 +21,12 @@ description: Ben Harvey's assignments
     </div>
 </div>
 
+### <a name="datamanipulationandaggregation"></a>data structures
+#### <a name="qtl"></a>[data structures](http://www.rqtl.org)
+{Add description of example an library here}
+
+[numpy example](http://groups.google.com/group/Rqtl-disc)
+[numpy repository](http://groups.google.com/group/Rqtl-disc)
 
 ### <a name="deeplearning"></a>deep learning
 #### <a name="qtl"></a>[theano](http://www.rqtl.org)
