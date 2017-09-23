@@ -29,25 +29,17 @@ description: Ben Harvey's publications
 
 ---
 
+###### 2016
 
-###### To appear
-
-**Harvey B*, Ji Soo-Yeon
-[The American Statistician](http://www.tandfonline.com/toc/utas20/current), to appear
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/dataorg.pdf)
-[![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_DataOrg)
-<!-- * 148 * -->
-
-###### 2017
-
-Harvey B, Ji Soo-Yeon,
-Payseur BA (2016) Genetics of skeletal evolution in unusually large mice
-from Gough Island. [Genetics](http://genetics.org) 204:1559-1572
-[![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/27694627)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/parmenter2016.pdf)
-[![supporting info](icons16/supp-icon.png)](http://www.genetics.org/content/early/2016/09/29/genetics.116.193805.supplemental)
+###### 2015
+B. S. Harvey and S. Y. Ji, "Cloud-Scale Genomic Signals Processing for Robust Large-Scale 
+Cancer Genomic Microarray Data Analysis," in IEEE Journal of Biomedical and Health Informatics, 
+vol. 21, no. 1, pp. 238-245, Jan. 2017. 
+[IEEE](http://ieeexplore.ieee.org/document/7317496/) doi: 10.1109/JBHI.2015.2496323
+[![PubMed](icons16/pubmed-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed?Db=PubMed&Cmd=ShowDetailView&TermToSearch=26552098&ordinalpos=1&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_RVDocSum)
+[![pdf](icons16/pdf-icon.png)](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/publications/csgsp_2015_IEEE.pdf)
+[![supporting info](icons16/supp-icon.png)]()
 <!-- * 144 * -->
-<!-- https://doi.org/10.1534/genetics.116.193805 -->
 
 
 #### <a name="conferences"></a>conferences
