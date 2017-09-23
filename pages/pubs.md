@@ -29,9 +29,9 @@ description: Ben Harvey's publications
 
 ---
 
-###### 2016
+##### 2016
 
-###### 2015
+##### 2015
 B. S. Harvey and S. Y. Ji, "Cloud-Scale Genomic Signals Processing for Robust Large-Scale 
 Cancer Genomic Microarray Data Analysis," in IEEE Journal of Biomedical and Health Informatics, 
 vol. 21, no. 1, pp. 238-245, Jan. 2017. 
