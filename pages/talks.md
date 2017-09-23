@@ -36,7 +36,10 @@ Lecture 3: Big Data Adoption and Planning Considerations and Enterprise Technolo
 Lecture 4: Big Data Analysis, Technology Concepts, and Techniques<br/>
 &nbsp; &nbsp; &nbsp; Slides:
 [![pdf](icons16/pdf-icon.png)](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/lectures/LECTURE4-EMSE9662_20170916_bsharve_new.pdf)
-[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_SGN2017)<br/>
+[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_SGN2017)
+
 ---
 
 ### <a name="talks"></a>talks
+
+---
