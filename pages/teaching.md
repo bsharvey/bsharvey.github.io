@@ -21,6 +21,7 @@ description: Karl Broman's teaching
 #### [Data Analytics Introduction and Practicum](http://bsharvey.github.io) (EMSE 6992; Fall, 2017)
 
 - [Course Website](https://bsharvey.github.io/pages/teaching.html)
+- [Syllabus](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/Syllabus_EMSE6992_Harvey_20170904.pdf)
 - [Lectures](https://bsharvey.github.io/pages/talks.html#lectures)
 - [Assignments and Labs](https://github.com/bsharvey/EMSEDataAnalytics)
 
