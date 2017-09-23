@@ -28,7 +28,7 @@ description: Ben Harvey's assignments
 
 Assignment    |    Repository
 ---   |   ---
-[assignment0](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Assignments/HW0.ipynb)   *   [assignment0 repositiory](https://github.com/bsharvey/EMSEDataAnalytics)
+[assignment0](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Assignments/HW0.ipynb)   |   * [assignment0 repositiory](https://github.com/bsharvey/EMSEDataAnalytics)
 
 ---
 
@@ -48,7 +48,7 @@ Applying different visualization techniques to Part 1
 
 Assignment    |    Repository
 ---    |    ---
-[assignment1](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Assignments/HW1.ipynb)    |    [assignment1 repositiory](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Assignments)
+[assignment1](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Assignments/HW1.ipynb)    |    * [assignment1 repositiory](https://github.com/bsharvey/EMSEDataAnalytics)
 
 ---
 
@@ -68,7 +68,7 @@ Assignment    |    Repository
 
 | Assignment                | Repository                 |
 | ------------------------- |:--------------------------:|
-| [assignment2           ]()| [assignment2 repositiory]()|
+| [assignment2           ]()| [assignment2 repositiory](https://github.com/bsharvey/EMSEDataAnalytics)|
 
 ---
 
@@ -88,7 +88,7 @@ Assignment    |    Repository
 
 | Assignment                | Repository                 |
 | ------------------------- |:--------------------------:|
-| [assignment3           ]()| [assignment3 repositiory]()|
+| [assignment3           ]()| [assignment3 repositiory](https://github.com/bsharvey/EMSEDataAnalytics)|
 
 ---
 
@@ -109,7 +109,7 @@ Assignment    |    Repository
 
 | Assignment                | Repository                 |
 | ------------------------- |:--------------------------:|
-| [assignment4           ]()| [assignment4 repositiory]()|
+| [assignment4           ]()| [assignment4 repositiory](https://github.com/bsharvey/EMSEDataAnalytics)|
 
 ---
 
@@ -129,7 +129,7 @@ Assignment    |    Repository
 
 | Assignment                 | Repository                 |
 | -------------------------- |:--------------------------:|
-| [Extra Credit           ]()| [Extra Credit repositiory]()|
+| [Extra Credit           ]()| [Extra Credit repositiory](https://github.com/bsharvey/EMSEDataAnalytics)|
 
 ---
 
