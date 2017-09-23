@@ -28,7 +28,7 @@ description: Ben Harvey's assignments
 
 Assignment    |    Repository
 ---   |   ---
-[assignment0](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Assignments/HW0.ipynb)   |    [assignment0 repositiory](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Assignments)
+[assignment0](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Assignments/HW0.ipynb)   *   [assignment0 repositiory](https://github.com/bsharvey/EMSEDataAnalytics)
 
 ---
 
