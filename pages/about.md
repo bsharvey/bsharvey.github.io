@@ -5,11 +5,11 @@ description: Benjamin Harvey is...
 ---
 
 #### <a name="currentposition"></a>current position
-Dr. Benjamin Harvey currently serves as a Data Scientist and architect for the Department of Defense (DoD) within the National Security Agency (NSA).  He is also part of the University of Maryland Medical Post-Baccalaureate program. He is current part-time faculty at George Washington University (GWU) for Department of Engineering Management and Systems Engineering and Department of Computer Science joint Data Analytic graduate program. 
+Dr. Benjamin Harvey currently serves as a Data Scientist and architect for the Department of Defense (DoD) within the National Security Agency (NSA).  He is also part of the University of Maryland Medical Post-Baccalaureate program. He is current part-time faculty at George Washington University (GWU) for Department of Engineering Management and Systems Engineering and Department of Computer Science joint Data Analytic graduate program.
 
 
 #### <a name="previousposition"></a>previous positions
-Dr. Harvey joined the Agency in 2009 and was hired into the Cryptologic Computer Science Develop Program (CDP).  He graduated from the CDP in 2012 and was the first African American to finish the program.
+Dr. Harvey joined the Agency in 2009 and was hired into the Cryptologic Computer Science Develop Program (CDP).  He graduated from the CDP in 2012 and was the first African American to accepted and to finish the program.
 
 
 #### <a name="researchbackground"></a>research background
