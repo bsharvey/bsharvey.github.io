@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lectures and Talks
-description: Karl Broman's talks
+description: Benjamin Harvey's lectures and talks
 ---
 <div class="navbar">
     <div class="navbar-inner">
@@ -30,4 +30,4 @@ Lecture 2: Genetic analysis of high-throughput phenotypes: challenges and opport
 
 ---
 
-
+### <a name="talks"></a>talks
