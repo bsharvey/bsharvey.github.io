@@ -14,8 +14,8 @@ description: Benjamin Harvey's lectures and talks
 
 
 ### <a name="lectures"></a>lectures
-###  2017
-#### <a name="EMSE6992"></a>[EMSE 6992 Introduction to Data Analytics](https://bsharvey.github.io/)
+####  2017
+##### <a name="EMSE6992"></a>[EMSE 6992 Introduction to Data Analytics](https://bsharvey.github.io/)
 {Add description of course here}
 
 Lecture 1: Genetic analysis of high-throughput phenotypes: challenges and opportunities<br/>
