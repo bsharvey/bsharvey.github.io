@@ -22,7 +22,7 @@ description: Karl Broman's teaching
 
 - [Course Website](https://bsharvey.github.io/pages/teaching.html)
 - [Lectures](https://bsharvey.github.io/pages/talks.html#lectures)
-- [Assignments and Labs](https://bsharvey.github.io/pages/assignments.html)
+- [Assignments and Labs](https://github.com/bsharvey/EMSEDataAnalytics)
 
 
 ---
