@@ -16,7 +16,7 @@ description: Benjamin Harvey's lectures and talks
 ### <a name="lectures"></a>lectures
 ####  2017
 ##### <a name="EMSE6992"></a>[EMSE 6992 Introduction to Data Analytics](https://bsharvey.github.io/)
-{Add description of course here}
+Selected topics in engineering management and systems engineering (EMSE) and Compuster Science (CS), as arranged. May be repeated for credit. Basic techniques of data science; algorithms for data mining; basics of statistical modeling and their “Big Data” applications. Concepts, abstractions, and practical techniques.
 
 Lecture 1: Introduction to Data Analytics<br/>
 &nbsp; &nbsp; &nbsp; Slides:
