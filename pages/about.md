@@ -5,7 +5,7 @@ description: Benjamin Harvey is...
 ---
 
 #### <a name="currentposition"></a>current position
-Dr. Benjamin Harvey currently serves as a Data Scientist for the Department of Defense (DoD) within the National Security Agency (NSA).  He is also part of the University of Maryland Medical Post-Baccalaureate program.
+Dr. Benjamin Harvey currently serves as a Data Scientist and architect for the Department of Defense (DoD) within the National Security Agency (NSA).  He is also part of the University of Maryland Medical Post-Baccalaureate program. He is current part-time faculty at George Washington University (GWU) for Department of Engineering Management and Systems Engineering and Department of Computer Science joint Data Analytic graduate program. 
 
 
 #### <a name="previousposition"></a>previous positions
@@ -22,6 +22,3 @@ Dr. Harvey graduated from Mississippi Valley State University in 2008 with a B.S
 [curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/bsharvey_cv.pdf)
 
 ---
-
-
-
