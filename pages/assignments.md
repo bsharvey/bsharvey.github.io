@@ -22,7 +22,6 @@ description: Ben Harvey's assignments
 
 ### EMSE 6992 Assignments
 ####  <a name="Assignment0"></a>Assignment0
-#### Due 10/12
 ##### <a name="introduction"></a>introduction to Python, Jupyter Notebooks, Github, and Portfolios
 * [Lab: Introduction to Python, Jupyter Notebooks, Github, and Portfolios](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Assignments/HW0.ipynb)
  In this in class, we will be using a variety of tools that will require some initial configuration including Python, Jupyter Notebooks, Github, and your Portfolio. To ensure everything goes smoothly moving forward, we will setup the majority of those tools in this in class activity. 
@@ -35,6 +34,7 @@ Assignment    |    Repository
 
 
 ####  <a name="Assignment1"></a>Assignment1
+#### Due 10/12
 ##### <a name="datamanipulationandaggregation"></a>data maniuplation and aggregation
 * [Lab: Exploratory Data Analysis for Classification using Pandas and Matplotlib](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab3/lab3full.ipynb)
  In Part 1 of the assignment, the goals of this assignment are:
