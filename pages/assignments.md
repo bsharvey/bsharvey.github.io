@@ -95,6 +95,11 @@ Assignment    |    Repository
 
 
 ####  <a name="Assignment4"></a>Assignment4
+##### <a name="portfolioimplementation"></a>portfolio implementation
+* [Tutorial: Portfolio Template Modifications]()
+
+The goal of this assignment is for each student to have all tabs/links within the portfolio properly updated with their pertinent information (Resume, CV, bio, contact info, etc.).  The student must also have incorporated links to all assignments in their portfolio, as well as updating the Resources and Toolkit sections with examples using the data and Python libraries.  
+
 ##### <a name="networkanalysis"></a>network analysis
 * [Lab: Networks](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab9/lab_9_with_answers.ipynb)
 
