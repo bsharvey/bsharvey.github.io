@@ -36,14 +36,16 @@ Assignment    |    Repository
 ####  <a name="Assignment1"></a>Assignment1
 #### Due 10/12
 ##### <a name="datamanipulationandaggregation"></a>data maniuplation and aggregation
-* [Lab: Exploratory Data Analysis for Classification using Pandas and Matplotlib](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab3/lab3full.ipynb)
- In Part 1 of the assignment, the goals of this assignment are:
+* [Lab3: Exploratory Data Analysis for Classification using Pandas and Matplotlib](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab3/lab3full.ipynb)
+
+In Part 1 of the assignment, the goals of this assignment are:
     To practice data manipulation with Pandas
     To develop intuition about the interplay of precision, accuracy, and bias when making predictions
     To better understand how election forecasts are constructed
 
 ##### <a name="visualization"></a>visualization
-* [Lab: Exploratory Data Analysis for Classification using Pandas and Matplotlib](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab3/lab3full.ipynb)
+* [Lab3: Exploratory Data Analysis for Classification using Pandas and Matplotlib](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab3/lab3full.ipynb)
+
 Applying different visualization techniques to Part 1
 
 Assignment    |    Repository
@@ -55,7 +57,7 @@ Assignment    |    Repository
 
 ####  <a name="Assignment2"></a>Assignment2
 ##### <a name="scientificcomputing"></a>scientific computing
-* [Lab: Scikit-Learn, Regression, PCA](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab4/Lab4full.ipynb)
+* [Lab4: Scikit-Learn, Regression, PCA](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab4/Lab4full.ipynb)
 
 The goal of this assignment is to introduce Scikit-Learn and its functions, Regression, and PCA, and still more regression.
 
@@ -66,10 +68,12 @@ The estimator interface is at the core of the library. It deﬁnes instantiation
 
 
 ##### <a name="statisticalanalysis"></a>statistic alanalysis
-* [Lab: Bias, Variance, Cross-Validation](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab5/Lab5.ipynb)
-* [Lab: Bayes, Linear Regression, and Metropolis Sampling](https://github.com/bsharvey/EMSEDataAnalytics/tree/master/EMSE6992_Labs/lab6)
+* [Lab5: Bias, Variance, Cross-Validation](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab5/Lab5.ipynb)
+* [Lab6: Bayes, Linear Regression, and Metropolis Sampling](https://github.com/bsharvey/EMSEDataAnalytics/tree/master/EMSE6992_Labs/lab6)
 
-{Add description of example an assignment here}
+In lab4, and in homework 2, we alluded to cross-validation with a weak explanation about finding the right hyper-parameters, some of which were regularization parameters. We will have more to say about regularization soon, but lets tackle the reasons we do cross-validation.  The bottom line is: finding the model which has an appropriate mix of bias and variance. We usually want to sit at the point of the tradeoff between the two: be simple but no simpler than necessary.  We do not want a model with too much variance: it would not generalize well. This phenomenon is also called overfitting. There is no point doing prediction if we cant generalize well. At the same time, if we have too much bias in our model, we will systematically underpredict or overpredict values and miss most predictions. This is also known as underfitting.  Cross-Validation provides us a way to find the "hyperparameters" of our model, such that we achieve the balance point.
+
+Finally, lab6 will address the Bayesian formulation of regression and the posterior predictive distribution and Markov/Metropolis-Hastings/Monte-Carlo sampling
 
 | Assignment                | Repository                 |
 | ------------------------- |:--------------------------:|
