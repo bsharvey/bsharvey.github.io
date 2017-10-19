@@ -57,7 +57,12 @@ Assignment    |    Repository
 ##### <a name="scientificcomputing"></a>scientific computing
 * [Lab: Scikit-Learn, Regression, PCA](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab4/Lab4full.ipynb)
 
-{Add description of example an assignment here}
+The goal of this assignment is to introduce Scikit-Learn and its functions, Regression, and PCA, and still more regression.
+
+All objects within scikit-learn share a uniform common basic API consisting of three complementary interfaces: an estimator interface for building and ﬁtting models, a predictor interface for making predictions and a transformer interface for converting data.
+
+    The estimator interface is at the core of the library. It deﬁnes instantiation mechanisms of objects and exposes a fit method for learning a model from training data. All supervised and unsupervised learning algorithms (e.g., for classiﬁcation, regression or clustering) are oﬀered as objects implementing this interface. Machine learning tasks like feature extraction, feature selection or dimensionality reduction are also provided as estimators.
+
 
 
 ##### <a name="statisticalanalysis"></a>statistic alanalysis
