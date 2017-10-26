@@ -77,7 +77,7 @@ Finally, lab6 will address the Bayesian formulation of regression and the poster
 
 | Assignment                | Repository                 |
 | ------------------------- |:--------------------------:|
-| [assignment2           ]()| [assignment2 repositiory](https://github.com/bsharvey/EMSEDataAnalytics)|
+| [assignment2           ](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Assignments/HW2.ipynb)| [assignment2 repositiory](https://github.com/bsharvey/EMSEDataAnalytics)|
 
 ---
 
