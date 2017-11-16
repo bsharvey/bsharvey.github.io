@@ -86,18 +86,50 @@ Finally, lab6 will address the Bayesian formulation of regression and the poster
 ##### <a name="deeplearning"></a>machine learning part1
 * [Lab: Neural Networks](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab10/Lab_10.ipynb)
 
-{Add description of example an assignment here}
+Classification
+
+    Identifying to which category an object belongs to.
+    Applications: Spam detection, Image recognition.
+    Algorithms: SVM, nearest neighbors, random forest, …
+
+Regression
+
+    Predicting a continuous-valued attribute associated with an object.
+    Applications: Drug response, Stock prices.
+    Algorithms: SVR, ridge regression, Lasso, …
+
+Clustering
+
+    Automatic grouping of similar objects into sets.
+    Applications: Customer segmentation, Grouping experiment outcomes
+    Algorithms:  k-Means, spectral clustering, mean-shift, …
 
 
 ##### <a name="machinelearning"></a>machine learning part2
 * [Lab: Support Vector Machines](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab10/Lab_10.ipynb)
 
-{Add description of example an assignment here}
 
+Dimensionality reduction
+
+    Reducing the number of random variables to consider.
+    Applications: Visualization, Increased efficiency
+    Algorithms: PCA, feature selection, non-negative matrix factorizations
+
+Model selection
+
+    Comparing, validating and choosing parameters and models.
+    Goal: Improved accuracy via parameter tuning
+    Modules:  grid search, cross validation, metrics.
+
+Preprocessing
+
+    Feature extraction and normalization.
+    Application: Transforming input data such as text for use with machine learning algorithms.
+    Modules: preprocessing, feature extraction.
 
 | Assignment                | Repository                 |
 | ------------------------- |:--------------------------:|
-| [assignment3           ]()| [assignment3 repositiory](https://github.com/bsharvey/EMSEDataAnalytics)|
+| [assignment3           ](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Assignments/HW3.ipynb)| [assignment3 repositiory](https://github.com/bsharvey/EMSEDataAnalytics)|
 
 ---
 
