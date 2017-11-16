@@ -84,7 +84,7 @@ Finally, lab6 will address the Bayesian formulation of regression and the poster
 
 
 ####  <a name="Assignment3"></a>Assignment3
-#### Due 10/30
+#### Due 11/30
 ##### <a name="deeplearning"></a>machine learning part1
 * [Lab: Neural Networks](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab10/Lab_10.ipynb)
 
