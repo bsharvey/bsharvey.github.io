@@ -56,6 +56,7 @@ Assignment    |    Repository
 
 
 ####  <a name="Assignment2"></a>Assignment2
+#### Due 11/2
 ##### <a name="scientificcomputing"></a>scientific computing
 * [Lab4: Scikit-Learn, Regression, PCA](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab4/Lab4full.ipynb)
 
@@ -83,6 +84,7 @@ Finally, lab6 will address the Bayesian formulation of regression and the poster
 
 
 ####  <a name="Assignment3"></a>Assignment3
+#### Due 10/30
 ##### <a name="deeplearning"></a>machine learning part1
 * [Lab: Neural Networks](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab10/Lab_10.ipynb)
 
@@ -136,6 +138,7 @@ Preprocessing
 
 
 ####  <a name="Assignment4"></a>Assignment4
+#### Due 12/7
 ##### <a name="portfolioimplementation"></a>portfolio implementation
 * [Tutorial: Portfolio Template Modifications]()
 
