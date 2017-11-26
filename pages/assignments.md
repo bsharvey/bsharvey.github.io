@@ -140,7 +140,7 @@ Preprocessing
 ####  <a name="Assignment4"></a>Assignment4
 #### Due 12/7
 ##### <a name="portfolioimplementation"></a>portfolio implementation
-* [Tutorial: Portfolio Template Modifications]()
+* [Tutorial: Portfolio Template Modifications](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Assignments/Portfolio_Setup.ipynb)
 
 The goal of this assignment is for each student to have all tabs/links within the portfolio properly updated with their pertinent information (Resume, CV, bio, contact info, etc.).  The student must also have incorporated links to all assignments in their portfolio, as well as updating the Resources and Toolkit sections with examples using the data and Python libraries.  
 
@@ -158,7 +158,7 @@ The goal of this assignment is for each student to have all tabs/links within th
 
 | Assignment                | Repository                 |
 | ------------------------- |:--------------------------:|
-| [assignment4           ]()| [assignment4 repositiory](https://github.com/bsharvey/EMSEDataAnalytics)|
+| [assignment4           ](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Assignments/Portfolio_Setup.ipynb)| [assignment4 repositiory](https://github.com/bsharvey/EMSEDataAnalytics)|
 
 ---
 
