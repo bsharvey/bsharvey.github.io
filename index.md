@@ -21,7 +21,7 @@ keywords: Broman, QTL, R/qtl, quantitative trait loci, statistics, statistical g
 <table class="wide">
 <tr>
   <td class="left">
-    <a href="https://bsharve.github.io/pages/publpics/bioinformatcs1.html">
+    <a href="https://bsharvey.github.io/pages/publpics/bioinformatics1.html">
         <img src="pages/publpics/bioinformatics1.png" alt="R/qtlcharts example" title="R/qtlcharts example"/>
     </a>
   </td>
