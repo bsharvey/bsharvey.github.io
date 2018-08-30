@@ -7,7 +7,7 @@ description: Ben Harvey's assignments
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
-            <li><a href="#Books">Data</a></li>
+            <li><a href="#Books">Books</a></li>
             <li><a href="#Data">Data</a></li>
             <li><a href="#Tutorials">Tutorials</a></li>
             <li><a href="#Miscelaneous">Miscelaneous</a></li>
@@ -17,11 +17,39 @@ description: Ben Harvey's assignments
 
 
 ## <a name="Books"></a>Books
-#### <a name="The Data Science Handbook"></a>[The Data Science Handbook](https://universalflowuniversity.com/Books/Computer%20Programming/Data%20Mining%20and%20Data%20Science/The%20Data%20Science%20Handbook.pdf)
-        Field Cady. The Data Science Handbook. Wiley, 2017.  Available for free as a PDF download here (https://universalflowuniversity.com/Books/Computer%20Programming/Data%20Mining%20and%20Data%20Science/The%20Data%20Science%20Handbook.pdf)
+#### <a name="The Data Science Handbook"></a>[The Data Science Handbook](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/books/The%20Data%20Science%20Handbook.pdf)
+        Field Cady. The Data Science Handbook. Wiley, 2017.  Available for free as a PDF download
+        [here: download link](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/books/The%20Data%20Science%20Handbook.pdf)
 
-#### <a name="Big Data Fundamentals"></a>[Big Data Fundamentals](https://www.slideshare.net/AshishSharma118/big-data-fundamentals-thomas-erl?qid=9d96f0ea-9180-421f-99f3-1c8f7fd8a8f6&v=&b=&from_search=2)
-        Erl, Thomas, Wajid Khattak, and Paul Buhler. Big data fundamentals: concepts, drivers & techniques. Prentice Hall Press, 2016.  Available for free as a PDF download at here (https://www.slideshare.net/AshishSharma118/big-data-fundamentals-thomas-erl?qid=9d96f0ea-9180-421f-99f3-1c8f7fd8a8f6&v=&b=&from_search=2)
+#### <a name="Big Data Fundamentals"></a>[Big Data Fundamentals](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/books/bigdatafundamentals-thomaserl-book.pdf)
+        Erl, Thomas, Wajid Khattak, and Paul Buhler. Big data fundamentals: concepts, drivers & techniques. Prentice Hall Press, 2016.  Available for free as a PDF download at 
+        [here: download link](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/books/bigdatafundamentals-thomaserl-book.pdf)
+        
+#### <a name="Doing data science"></a>[Doing data science](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/books/Doing%20Data%20Science.pdf)
+    Schutt, Rachel, and Cathy O'Neil. Doing data science: Straight talk from the frontline. " O'Reilly Media, Inc.", 2013.
+    Available for free as a PDF download at 
+        [here: download link](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/books/Doing%20Data%20Science.pdf)
+
+#### <a name="Machine learning for hackers"></a>[Machine learning for hackers](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/books/machine_learning_for_hackers.pdf)
+    Conway, Drew, and John White. Machine learning for hackers. " O'Reilly Media, Inc.", 2012.
+    Available for free as a PDF download at 
+        [here: download link](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/books/machine_learning_for_hackers.pdf)
+
+#### <a name="Python for data analysis"></a>[Python for data analysis](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/books/Python4DataAnalysis.pdf)
+    McKinney, Wes. Python for data analysis: Data wrangling with Pandas, NumPy, and IPython. " O'Reilly Media, Inc.", 2012.
+    Available for free as a PDF download at 
+        [here: download link](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/books/Python4DataAnalysis.pdf)
+
+#### <a name="Data Science for Business"></a>[Data Science for Business](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/books/data-science-for-business.pdf)
+    Provost, Foster, and Tom Fawcett. Data Science for Business: What you need to know about data mining and data-analytic thinking. " O'Reilly Media, Inc.", 2013.
+    Available for free as a PDF download at 
+        [here: download link](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/books/data-science-for-business.pdf)
+
+#### <a name="Introduction to data science"></a>[Introduction to data science](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/books/DataScienceBook1_1.pdf)
+    Stanton, Jeffrey M. "Introduction to data science." (2013).
+    Available for free as a PDF download at 
+        [here: download link](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/books/DataScienceBook1_1.pdf)
+
 
 ## <a name="Data"></a>Data
 #### <a name="Government Open Data"></a>[data.gov.in](https://data.gov.in/)
