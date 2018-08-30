@@ -20,3 +20,6 @@ see B. S. Harvey and S. Ji, "Cloud-Scale Genomic Signals Processing for Robust L
 
 [![Analysis example](https://github.com/bsharvey/bsharvey.github.io/blob/master/pages/publpics/bioinformatics1.png)](https://github.com/bsharvey/bsharvey.github.io/blob/master/pages/publpics/bioinformatics1.html)
 
+Figure 1: Heat map of Global Cancer Map (GCM) sample expression levels generated from Wavelet Thresholding method for genes/features selection.
+Figure 2: Heat map of Global Cancer Map (GCM) sample expression levels generated from Differentially Expressed method for genes/features selection.
+
