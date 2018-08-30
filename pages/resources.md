@@ -20,7 +20,7 @@ description: Ben Harvey's assignments
 #### <a name="The Data Science Handbook"></a>[The Data Science Handbook](https://universalflowuniversity.com/Books/Computer%20Programming/Data%20Mining%20and%20Data%20Science/The%20Data%20Science%20Handbook.pdf)
         Field Cady. The Data Science Handbook. Wiley, 2017.  Available for free as a PDF download here (https://universalflowuniversity.com/Books/Computer%20Programming/Data%20Mining%20and%20Data%20Science/The%20Data%20Science%20Handbook.pdf)
 
-#### <a name="Big Data Fundamentals"></a>[Tig Data Fundamentals](https://www.slideshare.net/AshishSharma118/big-data-fundamentals-thomas-erl?qid=9d96f0ea-9180-421f-99f3-1c8f7fd8a8f6&v=&b=&from_search=2)
+#### <a name="Big Data Fundamentals"></a>[Big Data Fundamentals](https://www.slideshare.net/AshishSharma118/big-data-fundamentals-thomas-erl?qid=9d96f0ea-9180-421f-99f3-1c8f7fd8a8f6&v=&b=&from_search=2)
         Erl, Thomas, Wajid Khattak, and Paul Buhler. Big data fundamentals: concepts, drivers & techniques. Prentice Hall Press, 2016.  Available for free as a PDF download at here (https://www.slideshare.net/AshishSharma118/big-data-fundamentals-thomas-erl?qid=9d96f0ea-9180-421f-99f3-1c8f7fd8a8f6&v=&b=&from_search=2)
 
 ## <a name="Data"></a>Data
