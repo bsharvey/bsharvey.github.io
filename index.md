@@ -10,7 +10,7 @@ keywords: Broman, QTL, R/qtl, quantitative trait loci, statistics, statistical g
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/bsharvey_cv.pdf">cv</a></li>
           <li><a href="https://github.com/bsharvey">github</a></li>
-          <li><a href="http://kbroman.org/blog">blog</a></li>
+          <li><a href="https://bsharvey.github.io">blog</a></li>
           <li><a href="https://www.linkedin.com/in/benjamin-harvey-ph-d-1928839a/">LinkedIn</a></li>
       </ul>
   </div>
