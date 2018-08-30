@@ -193,7 +193,8 @@ Preprocessing
 ##### <a name="labassignments"></a>lab assignments
 
 * [Installing and Editing Portfolios](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Assignments/Portfolio_Setup.ipynb)
-* [Web Scraping](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab2/Lab_2_A_Johanna.ipynb)
+* [Web Scraping - Part 1](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab_webscraping/Lab_2_A_Live.ipynb)
+* [Web Scraping - Part 2](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab_webscraping/Lab_2_B_Live.ipynb)
 * [Sampling and Text Processing ](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab_sampling_textprocessing/GibbsSampler.ipynb)
 * [Exploratory Data Analysis for Classification using Pandas and Matplotlib](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab_eda/lab3.ipynb)
 * [Scikit-Learn, Regression, PCA](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab_scikitlearn_regression_pca/Lab4.ipynb)
