@@ -12,7 +12,7 @@ title: large-scale cancer genomic data using signal processing
   </div>
 </div>
 
-[Cloud Scale Genomic Signals Processing](http://kbroman.org/qtlcharts), a methodology for the anlysis of large-scale cancer genomic data using signal processing; <br/>
+[Cloud Scale Genomic Signals Processing](https://ieeexplore.ieee.org/document/7317496/), a methodology for the anlysis of large-scale cancer genomic data using signal processing; <br/>
 see B. S. Harvey and S. Ji, "Cloud-Scale Genomic Signals Processing for Robust Large-Scale Cancer Genomic Microarray Data Analysis," in IEEE Journal of Biomedical and Health Informatics, vol. 21, no. 1, pp. 238-245, Jan. 2017.
 [![PubMed](../icons16/pubmed-icon.png)]()
 [![pdf](../icons16/pdf-icon.png)]()
