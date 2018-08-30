@@ -6,8 +6,8 @@ title: large-scale cancer genomic data using signal processing
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="geneticmaps_fig3.html">prev</a></li>
-          <li><a href="tian2016_fig4.html">next</a></li>
+          <li><a href="nba1.html">prev</a></li>
+          <li><a href="nba2.html">next</a></li>
       </ul>
   </div>
 </div>
