@@ -24,7 +24,9 @@ description: Ben Harvey's teaching
 - [Syllabus](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/Syllabus_EMSE6992_Harvey_20180810.pdf)
 - [Lectures](https://bsharvey.github.io/pages/talks.html#lectures_2018)
 - [Assignments and Labs](https://github.com/bsharvey/EMSEDataAnalytics)
+- [Project Proposal and Final Project Instructions](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/Proposal%20Paper_GWU_Fall2018_20180830.pdf)
 - [Portfolio and Presentation Rubric](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/Portfolio%20Rubric_Fall2018_20180830.pdf)
+
 
 
 ---
@@ -46,5 +48,6 @@ description: Ben Harvey's teaching
 - [Syllabus](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/Syllabus_EMSE6992_Harvey_20170904.pdf)
 - [Lectures](https://bsharvey.github.io/pages/talks.html#lectures)
 - [Assignments and Labs](https://github.com/bsharvey/EMSEDataAnalytics)
+- [Project Proposal and Final Project Instructions](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/Proposal%20Paper_GWU_Fall2018_20180830.pdf)
 - [Portfolio and Presentation Rubric](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/Portfolio%20Rubric_Fall2018_20180830.pdf)
 
