@@ -22,7 +22,7 @@ description: Ben Harvey's assignments
 
 ### EMSE 6992 Assignments
 ####  <a name="Assignment0"></a>Assignment0
-#### Due 9/13
+#### Opens 8/30 and Due 9/13
 ##### <a name="introduction"></a>introduction to Python, Jupyter Notebooks, Github, and Portfolios
 * [Lab: Installing and Editing Portfolios](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Assignments/Portfolio_Setup.ipynb)
 
@@ -36,9 +36,9 @@ Assignment    |    Repository
 
 
 ####  <a name="Assignment1"></a>Assignment1
-#### Due 10/4
+#### Opens 9/13 and Due 10/4
 ##### <a name="datamanipulationandaggregation"></a>data maniuplation and aggregation
-* [Lab3: Exploratory Data Analysis for Classification using Pandas and Matplotlib](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab_eda/lab3.ipynb)
+* [Lab: Exploratory Data Analysis for Classification using Pandas and Matplotlib](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab_eda/lab3.ipynb)
 
         In Part 1 of the assignment, the goals of this assignment are:
             To practice data manipulation with Pandas
@@ -46,7 +46,7 @@ Assignment    |    Repository
             To better understand how election forecasts are constructed
 
 ##### <a name="visualization"></a>visualization
-* [Lab3: Exploratory Data Analysis for Classification using Pandas and Matplotlib](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab_eda/lab3.ipynb)
+* [Lab: Exploratory Data Analysis for Classification using Pandas and Matplotlib](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab_eda/lab3.ipynb)
 
 Applying different visualization techniques to Part 1
 
@@ -58,27 +58,21 @@ Assignment    |    Repository
 
 
 ####  <a name="Assignment2"></a>Assignment2
-#### Due 11/1
+#### Opens 10/14 and Due 11/1
 ##### <a name="scientificcomputing"></a>scientific computing
-* [Lab4: Scikit-Learn, Regression, PCA](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab_scikitlearn_regression_pca/Lab4.ipynb)
+* [Lab: Scikit-Learn, Regression, PCA](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab_scikitlearn_regression_pca/Lab4.ipynb)
 
-        The goal of this assignment is to introduce Scikit-Learn and its functions, Regression, and PCA, and still more regression.
-
-        All objects within scikit-learn share a uniform common basic API consisting of three complementary interfaces: an estimator interface for building and ﬁtting models, a predictor interface for making predictions and a transformer interface for converting data.
-
-        The estimator interface is at the core of the library. It deﬁnes instantiation mechanisms of objects and exposes a fit method for learning a model from training data. All supervised and unsupervised learning algorithms (e.g., for classiﬁcation, regression or clustering) are oﬀered as objects implementing this interface. Machine learning tasks like feature extraction, feature selection or dimensionality reduction are also provided as estimators.
+        The goal of this assignment is to introduce Scikit-Learn and its functions, Regression, and PCA, and still more regression.  All objects within scikit-learn share a uniform common basic API consisting of three complementary interfaces: an estimator interface for building and ﬁtting models, a predictor interface for making predictions and a transformer interface for converting data.  The estimator interface is at the core of the library. It deﬁnes instantiation mechanisms of objects and exposes a fit method for learning a model from training data. All supervised and unsupervised learning algorithms (e.g., for classiﬁcation, regression or clustering) are oﬀered as objects implementing this interface. Machine learning tasks like feature extraction, feature selection or dimensionality reduction are also provided as estimators.
 
 
 
 ##### <a name="statisticalanalysis"></a>statistic alanalysis
-* [Lab5: Bias, Variance, Cross-Validation](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab_bias_variance_crossvalidation/Lab5.ipynb)
-* [Lab6: Bayes, Linear Regression, and Metropolis Sampling](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab_bayes_linearregression_sampling/BayesLinear.ipynb)
+* [Lab: Bias, Variance, Cross-Validation](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab_bias_variance_crossvalidation/Lab5.ipynb)
+* [Lab: Bayes, Linear Regression, and Metropolis Sampling](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab_bayes_linearregression_sampling/BayesLinear.ipynb)
 
-        In lab4, and in homework 2, we alluded to cross-validation with a weak explanation about finding the right hyper-parameters, some                               of which were regularization parameters. We will have more to say about regularization soon, but lets tackle the reasons we do cross-validation.  
-        The bottom line is: finding the model which has an appropriate mix of bias and variance. We usually want to sit at the point of the tradeoff between the two: be simple but no simpler than necessary.  We do not want a model with too much variance: it would not generalize well. 
-        This phenomenon is also called overfitting. There is no point doing prediction if we cant generalize well. At the same time, if we have too much bias in our model, we will systematically underpredict or overpredict values and miss most predictions. This is also known as underfitting.  Cross-Validation provides us a way to find the "hyperparameters" of our model, such that we achieve the balance point.
+        In this lab, and in homework 2, we alluded to cross-validation with a weak explanation about finding the right hyper-parameters, some of which were regularization parameters. We will have more to say about regularization soon, but lets tackle the reasons we do cross-validation. The bottom line is: finding the model which has an appropriate mix of bias and variance. We usually want to sit at the point of the tradeoff between the two: be simple but no simpler than necessary.  We do not want a model with too much variance: it would not generalize well.  This phenomenon is also called overfitting. There is no point doing prediction if we cant generalize well. At the same time, if we have too much bias in our model, we will systematically underpredict or overpredict values and miss most predictions. This is also known as underfitting.  Cross-Validation provides us a way to find the "hyperparameters" of our model, such that we achieve the balance point.
 
-Finally, lab6 will address the Bayesian formulation of regression and the posterior predictive distribution and Markov/Metropolis-Hastings/Monte-Carlo sampling
+Finally, this lab will address the Bayesian formulation of regression and the posterior predictive distribution and Markov/Metropolis-Hastings/Monte-Carlo sampling
 
 | Assignment                | Repository                 |
 | ------------------------- |:--------------------------:|
@@ -88,7 +82,7 @@ Finally, lab6 will address the Bayesian formulation of regression and the poster
 
 
 ####  <a name="Assignment3"></a>Assignment3
-#### Due 11/29
+#### Opens 11/1 and Due 11/29
 ##### <a name="deeplearning"></a>machine learning part1
 * [Lab: Neural Networks](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab_neuralnetworks_svm/Lab_10.ipynb)
 
@@ -142,7 +136,7 @@ Preprocessing
 
 
 ####  <a name="Assignment4"></a>Assignment4
-#### Due 12/7
+#### Opens 11/29 and Due 12/7
 ##### <a name="portfolioimplementation"></a>portfolio implementation
 * [Tutorial: Portfolio Template Modifications](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Assignments/Portfolio_Setup.ipynb)
 
@@ -192,17 +186,21 @@ Preprocessing
 #### EMSE 6992 Labs
 ##### <a name="labassignments"></a>lab assignments
 
-* [Installing and Editing Portfolios](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Assignments/Portfolio_Setup.ipynb)
-* [Web Scraping - Part 1](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab_webscraping/Lab_2_A_Live.ipynb)
-* [Web Scraping - Part 2](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab_webscraping/Lab_2_B_Live.ipynb)
-* [Sampling and Text Processing ](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab_sampling_textprocessing/GibbsSampler.ipynb)
-* [Exploratory Data Analysis for Classification using Pandas and Matplotlib](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab_eda/lab3.ipynb)
-* [Scikit-Learn, Regression, PCA](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab_scikitlearn_regression_pca/Lab4.ipynb)
-* [Bias, Variance, Cross-Validation](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab_bias_variance_crossvalidation/Lab5.ipynb)
-* [Bayes, Linear Regression, and Metropolis Sampling](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab_bayes_linearregression_sampling/BayesLinear.ipynb)
-* [Support Vector Machines](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab_neuralnetworks_svm/Lab_10.ipynb)
-* [Networks](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab_networks_graphs/lab_9.ipynb)
-* [MapReduce](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab_mapreduce/lab8_mapreduce.ipynb)
-
+* [Week 1: Installing and Editing Portfolios - Part 1](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Assignments/Portfolio_Setup.ipynb)
+* [Week 2: Installing and Editing Portfolios - Part 2](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Assignments/Portfolio_Setup.ipynb)
+* [Week 3: Exploratory Data Analysis for Classification using Pandas and Matplotlib - Part 1](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab_eda/lab3.ipynb)
+* [Week 4: Web Scraping - Part 1](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab_webscraping/Lab_2_A_Live.ipynb)
+* [Week 4: Web Scraping - Part 2](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab_webscraping/Lab_2_B_Live.ipynb)
+* [Week 5: Exploratory Data Analysis for Classification using Pandas and Matplotlib - Part 2](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab_eda/lab3.ipynb)
+* [Week 6: MapReduce](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab_mapreduce/lab8_mapreduce.ipynb)
+* [Week 7: Scikit-Learn, Regression, PCA](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab_scikitlearn_regression_pca/Lab4.ipynb)
+* [Week 8: Bayes, Linear Regression, and Metropolis Sampling](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab_bayes_linearregression_sampling/BayesLinear.ipynb)
+* [Week 9: Sampling and Text Processing ](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab_sampling_textprocessing/GibbsSampler.ipynb)
+* [Week 10: Support Vector Machines and Neural Networks](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab_neuralnetworks_svm/Lab_10.ipynb)
+* [Week 11: Bias, Variance, Cross-Validation - Part 1](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab_bias_variance_crossvalidation/Lab5.ipynb)
+* [Week 12: Bias, Variance, Cross-Validation - Part 2](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab_bias_variance_crossvalidation/Lab5.ipynb)
+* [Week 13: Holiday]()
+* [Week 14: Networks](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab_networks_graphs/lab_9.ipynb)
+* [Week 15: Presentations]()
 
 ---
