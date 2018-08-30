@@ -1,6 +1,6 @@
 ---
 layout: frontpage
-title: R/qtlcharts example
+title: large-scale cancer genomic data using signal processing
 ---
 
 <div class="navbar">
