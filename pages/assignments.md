@@ -38,7 +38,7 @@ Assignment    |    Repository
 ####  <a name="Assignment1"></a>Assignment1
 #### Due 10/4
 ##### <a name="datamanipulationandaggregation"></a>data maniuplation and aggregation
-* [Lab3: Exploratory Data Analysis for Classification using Pandas and Matplotlib](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab3/lab3full.ipynb)
+* [Lab3: Exploratory Data Analysis for Classification using Pandas and Matplotlib](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab_eda/lab3.ipynb)
 
         In Part 1 of the assignment, the goals of this assignment are:
             To practice data manipulation with Pandas
@@ -46,7 +46,7 @@ Assignment    |    Repository
             To better understand how election forecasts are constructed
 
 ##### <a name="visualization"></a>visualization
-* [Lab3: Exploratory Data Analysis for Classification using Pandas and Matplotlib](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab3/lab3full.ipynb)
+* [Lab3: Exploratory Data Analysis for Classification using Pandas and Matplotlib](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab_eda/lab3.ipynb)
 
 Applying different visualization techniques to Part 1
 
@@ -60,7 +60,7 @@ Assignment    |    Repository
 ####  <a name="Assignment2"></a>Assignment2
 #### Due 11/1
 ##### <a name="scientificcomputing"></a>scientific computing
-* [Lab4: Scikit-Learn, Regression, PCA](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab4/Lab4full.ipynb)
+* [Lab4: Scikit-Learn, Regression, PCA](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab_scikitlearn_regression_pca/Lab4.ipynb)
 
         The goal of this assignment is to introduce Scikit-Learn and its functions, Regression, and PCA, and still more regression.
 
@@ -71,8 +71,8 @@ Assignment    |    Repository
 
 
 ##### <a name="statisticalanalysis"></a>statistic alanalysis
-* [Lab5: Bias, Variance, Cross-Validation](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab5/Lab5.ipynb)
-* [Lab6: Bayes, Linear Regression, and Metropolis Sampling](https://github.com/bsharvey/EMSEDataAnalytics/tree/master/EMSE6992_Labs/lab6)
+* [Lab5: Bias, Variance, Cross-Validation](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab_bias_variance_crossvalidation/Lab5.ipynb)
+* [Lab6: Bayes, Linear Regression, and Metropolis Sampling](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab_bayes_linearregression_sampling/BayesLinear.ipynb)
 
         In lab4, and in homework 2, we alluded to cross-validation with a weak explanation about finding the right hyper-parameters, some                               of which were regularization parameters. We will have more to say about regularization soon, but lets tackle the reasons we do cross-validation.  
         The bottom line is: finding the model which has an appropriate mix of bias and variance. We usually want to sit at the point of the tradeoff between the two: be simple but no simpler than necessary.  We do not want a model with too much variance: it would not generalize well. 
@@ -90,7 +90,7 @@ Finally, lab6 will address the Bayesian formulation of regression and the poster
 ####  <a name="Assignment3"></a>Assignment3
 #### Due 11/29
 ##### <a name="deeplearning"></a>machine learning part1
-* [Lab: Neural Networks](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab10/Lab_10.ipynb)
+* [Lab: Neural Networks](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab_neuralnetworks_svm/Lab_10.ipynb)
 
 Classification
 
@@ -112,7 +112,7 @@ Clustering
 
 
 ##### <a name="machinelearning"></a>machine learning part2
-* [Lab: Support Vector Machines](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab10/Lab_10.ipynb)
+* [Lab: Support Vector Machines](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab_neuralnetworks_svm/Lab_10.ipynb)
 
 
 Dimensionality reduction
@@ -149,13 +149,13 @@ Preprocessing
         The goal of this assignment is for each student to have all tabs/links within the portfolio properly updated with their pertinent information (Resume, CV, bio, contact info, etc.).  The student must also have incorporated links to all assignments in their portfolio, as well as updating the Resources and Toolkit sections with examples using the data and Python libraries.  
 
 ##### <a name="networkanalysis"></a>network analysis
-* [Lab: Networks](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab9/lab_9_with_answers.ipynb)
+* [Lab: Networks](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab_networks_graphs/lab_9.ipynb)
 
         {Add description of example an assignment here}
 
 
 ##### <a name="bigdataanalytics"></a>big data analytics
-* [Lab: MapReduce](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab8/lab8_mapreduce.ipynb)
+* [Lab: MapReduce](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab_mapreduce/lab8_mapreduce.ipynb)
 
         {Add description of example an assignment here}
 
@@ -169,13 +169,15 @@ Preprocessing
 
 ####  <a name="ExtraCredit"></a>Extra Credit Assignment
 ##### <a name="webscraping"></a>webs craping
-* [Lab: Web Scraping](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab2/Lab_2_A_Johanna.ipynb)
+* [Lab: Web Scraping - Part 1](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab_webscraping/Lab_2_A_Live.ipynb)
+* [Lab: Web Scraping - Part 2](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab_webscraping/Lab_2_B_Live.ipynb)
+
 
         {Add description of example an assignment here}
 
 
 ##### <a name="textprocessing"></a>sampling and text processing
-* [Lab: Sampling and Text Processing ](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab7/GibbsSampler.ipynb)
+* [Lab: Sampling and Text Processing ](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab_sampling_textprocessing/GibbsSampler.ipynb)
 
         {Add description of example an assignment here}
 
