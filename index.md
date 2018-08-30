@@ -34,12 +34,12 @@ keywords: Broman, QTL, R/qtl, quantitative trait loci, statistics, statistical g
 </tr>
 <tr>
   <td class="left">
-    <a href="https://github.com/bsharvey/bsharvey.github.io/blob/master/pages/publpics/bioinformatics2.html">
+    <a href="https://bsharvey.github.io">
         <img src="pages/publpics/bioinformatics2.png" alt="Broman et al. (2013) Fig 7" title="Broman et al. (2013) Fig 7"/>
     </a>
   </td>
   <td class="right">
-    <a href="https://github.com/bsharvey/bsharvey.github.io/blob/master/pages/publpics/nba2.html">
+    <a href="https://bsharvey.github.io">
         <img src="pages/publpics/nba2.png" alt="Tian et al. (2015) Fig 4" title="Tian et al. (2015) Fig 4"/>
     </a>
   </td>
