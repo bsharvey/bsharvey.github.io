@@ -49,7 +49,7 @@ keywords: Broman, QTL, R/qtl, quantitative trait loci, statistics, statistical g
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="">see more figures</a></li>
+          <li><a href="https://bsharvey.github.io">see more figures</a></li>
       </ul>
   </div>
 </div>
