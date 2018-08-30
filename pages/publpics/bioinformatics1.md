@@ -19,7 +19,7 @@ see Broman (2015) Genetics 199:359-361
 [![pdf](../icons16/pdf-icon.png)]()
 [![GitHub](../icons16/github-icon.png)]()
 
-[![R/qtlcharts example](https://github.com/bsharvey/bsharvey.github.io/blob/master/pages/publpics/bioinformatics1.html)](https://github.com/bsharvey/bsharvey.github.io/blob/master/pages/publpics/bioinformatics1.png)
+[![R/qtlcharts example](https://github.com/bsharvey/bsharvey.github.io/blob/master/pages/publpics/bioinformatics1.png)](https://github.com/bsharvey/bsharvey.github.io/blob/master/pages/publpics/bioinformatics1.html)
 
 Static view of an [interactive graph]()
 from [R/qtlcharts](). The left panel is a heatmap of a correlation
