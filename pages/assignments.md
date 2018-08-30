@@ -23,7 +23,7 @@ description: Ben Harvey's assignments
 ### EMSE 6992 Assignments
 ####  <a name="Assignment0"></a>Assignment0
 ##### <a name="introduction"></a>introduction to Python, Jupyter Notebooks, Github, and Portfolios
-* [Lab: Introduction to Python, Jupyter Notebooks, Github, and Portfolios](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Assignments/HW0.ipynb)
+* [Lab: Installing and Editing Portfolios](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Assignments/Portfolio_Setup.ipynb)
  In this in class, we will be using a variety of tools that will require some initial configuration including Python, Jupyter Notebooks, Github, and your Portfolio. To ensure everything goes smoothly moving forward, we will setup the majority of those tools in this in class activity. 
 
 Assignment    |    Repository
