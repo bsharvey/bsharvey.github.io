@@ -20,11 +20,6 @@ description: Ben Harvey's publications
 </div>
 
 
-#### <a name="book"></a>book
-
----
-
-
 #### <a name="articles"></a>journal articles
 
 ##### 2015
@@ -71,8 +66,8 @@ vol. 21, no. 1, pp. 238-245, Jan. 2017.
 Robust Microarray Data Analysis.  
 PhD dissertation, Department of Computer Science,
 Bowie State University
-[![Abstract](icons16/pubmed-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/thesis_abstract.html)
-[![pdf (653k)](icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/thesis.pdf)
+[![Abstract](icons16/pubmed-icon.png)]()
+[![pdf (653k)](icons16/pdf-icon.png)]()
 
 ---
 
