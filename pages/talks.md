@@ -30,8 +30,8 @@ Lecture 2: Review: Linear Algebra and Computer Science<br/>
 
 Lecture 3: Data Wrangling and Preparation<br/>
 &nbsp; &nbsp; &nbsp; Slides:
-[![pdf](icons16/pdf-icon.png)](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/LECTURE3-EMSE9662_20180910_Fall2018.pdf)
-[![github](icons16/github-icon.png)](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/LECTURE3-EMSE9662_20180910_Fall2018.pdf)
+[![pdf](icons16/pdf-icon.png)](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/lectures_2018/LECTURE3-EMSE9662_20180910_Fall2018.pdf)
+[![github](icons16/github-icon.png)](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/lectures_2018/LECTURE3-EMSE9662_20180910_Fall2018.pdf)
 
 ####  2017
 ##### <a name="EMSE6992"></a>[EMSE 6992 Introduction to Data Analytics](https://bsharvey.github.io/)
