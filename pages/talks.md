@@ -28,6 +28,11 @@ Lecture 2: Review: Linear Algebra and Computer Science<br/>
 [![pdf](icons16/pdf-icon.png)](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/lectures_2018/LECTURE2a-EMSE9662_20180830_Fall2018.pdf)
 [![github](icons16/github-icon.png)](https://github.com/bsharvey/bsharvey.github.io/tree/master/assets/lectures_2018)<br/>
 
+Lecture 3: Data Wrangling and Preparation<br/>
+&nbsp; &nbsp; &nbsp; Slides:
+[![pdf](icons16/pdf-icon.png)](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/LECTURE3-EMSE9662_20180910_Fall2018.pdf)
+[![github](icons16/github-icon.png)](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/LECTURE3-EMSE9662_20180910_Fall2018.pdf)
+
 ####  2017
 ##### <a name="EMSE6992"></a>[EMSE 6992 Introduction to Data Analytics](https://bsharvey.github.io/)
 Lectures from GWU's Graduate Data Analytics program established jointly byt the Engineering (EMSE) and Compuster Science (CS) departments.  Basic techniques of data science; algorithms for data mining; basics of statistical modeling and their “Big Data” applications. Concepts, abstractions, and practical techniques.
