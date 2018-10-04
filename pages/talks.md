@@ -43,6 +43,11 @@ Lecture 5: Data Visualizations<br/>
 [![pdf](icons16/pdf-icon.png)](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/lectures_2018/LECTURE4-EMSE9662_20180910_Fall2018.pdf)
 [![github](icons16/github-icon.png)](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/lectures_2018/LECTURE4-EMSE9662_20180910_Fall2018.pdf)
 
+Lecture 6: Exploratory Data Analysis Part1<br/>
+&nbsp; &nbsp; &nbsp; Slides:
+[![pdf](icons16/pdf-icon.png)](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/lectures_2018/LECTURE5_EDA-EMSE9662_20181004_Fall2018.pdf)
+[![github](icons16/github-icon.png)](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/lectures_2018/LECTURE5_EDA-EMSE9662_20181004_Fall2018.pdf)
+
 ####  2017
 ##### <a name="EMSE6992"></a>[EMSE 6992 Introduction to Data Analytics](https://bsharvey.github.io/)
 Lectures from GWU's Graduate Data Analytics program established jointly byt the Engineering (EMSE) and Compuster Science (CS) departments.  Basic techniques of data science; algorithms for data mining; basics of statistical modeling and their “Big Data” applications. Concepts, abstractions, and practical techniques.
