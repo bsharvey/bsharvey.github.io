@@ -55,8 +55,8 @@ Lecture 7: Exploratory Data Analysis Part2<br/>
 
 Lecture 8: Machine Learning Part1<br/>
 &nbsp; &nbsp; &nbsp; Slides:
-[![pdf](icons16/pdf-icon.png)](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/lectures_2018/LECTURE5_EDA-EMSE9662_20181004_Fall2018.pdf)
-[![github](icons16/github-icon.png)](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/lectures_2018/LECTURE5_EDA-EMSE9662_20181004_Fall2018.pdf)
+[![pdf](icons16/pdf-icon.png)](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/lectures_2018/LECTURE7_ML1-EMSE9662_20181004_Fall2018.pdf)
+[![github](icons16/github-icon.png)](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/lectures_2018/LECTURE7_ML1-EMSE9662_20181004_Fall2018.pdf)
 
 ####  2017
 ##### <a name="EMSE6992"></a>[EMSE 6992 Introduction to Data Analytics](https://bsharvey.github.io/)
