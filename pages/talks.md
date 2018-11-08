@@ -63,7 +63,7 @@ Lecture 9: Machine Learning Part2<br/>
 [![pdf](icons16/pdf-icon.png)](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/lectures_2018/LECTURE8_ML2-EMSE9662_20181025_Fall2018.pdf)
 [![github](icons16/github-icon.png)](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/lectures_2018/LECTURE8_ML2-EMSE9662_20181025_Fall2018.pdf)
 
-Lecture 9: Machine Learning Part3<br/>
+Lecture 10: Machine Learning Part3<br/>
 &nbsp; &nbsp; &nbsp; Slides:
 [![pdf](icons16/pdf-icon.png)](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/lectures_2018/LECTURE9_ML3-EMSE9662_20181108_Fall2018.pdf)
 [![github](icons16/github-icon.png)](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/lectures_2018/LECTURE9_ML3-EMSE9662_20181108_Fall2018.pdf)
