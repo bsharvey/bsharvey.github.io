@@ -53,20 +53,35 @@ Lecture 7: Exploratory Data Analysis Part2<br/>
 [![pdf](icons16/pdf-icon.png)](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/lectures_2018/LECTURE5_EDA-EMSE9662_20181004_Fall2018.pdf)
 [![github](icons16/github-icon.png)](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/lectures_2018/LECTURE5_EDA-EMSE9662_20181004_Fall2018.pdf)
 
-Lecture 8: Machine Learning Part1<br/>
+Lecture 8: Big Data Analysis<br/>
+&nbsp; &nbsp; &nbsp; Slides:
+[![pdf](icons16/pdf-icon.png)](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/lectures_2018/LECTURE7_BigData-EMSE9662_20181016_Fall2018.pdf)
+[![github](icons16/github-icon.png)](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/lectures_2018/LECTURE7_BigData-EMSE9662_20181016_Fall2018.pdf)
+
+Lecture 9: Machine Learning Part1<br/>
 &nbsp; &nbsp; &nbsp; Slides:
 [![pdf](icons16/pdf-icon.png)](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/lectures_2018/LECTURE7_ML1-EMSE9662_20181004_Fall2018.pdf)
 [![github](icons16/github-icon.png)](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/lectures_2018/LECTURE7_ML1-EMSE9662_20181004_Fall2018.pdf)
 
-Lecture 9: Machine Learning Part2<br/>
+Lecture 10: Machine Learning Part2<br/>
 &nbsp; &nbsp; &nbsp; Slides:
 [![pdf](icons16/pdf-icon.png)](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/lectures_2018/LECTURE8_ML2-EMSE9662_20181025_Fall2018.pdf)
 [![github](icons16/github-icon.png)](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/lectures_2018/LECTURE8_ML2-EMSE9662_20181025_Fall2018.pdf)
 
-Lecture 10: Machine Learning Part3<br/>
+Lecture 11: Machine Learning Part3<br/>
 &nbsp; &nbsp; &nbsp; Slides:
 [![pdf](icons16/pdf-icon.png)](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/lectures_2018/LECTURE9_ML3-EMSE9662_20181108_Fall2018.pdf)
 [![github](icons16/github-icon.png)](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/lectures_2018/LECTURE9_ML3-EMSE9662_20181108_Fall2018.pdf)
+
+Lecture 12: Natural Language Processing<br/>
+&nbsp; &nbsp; &nbsp; Slides:
+[![pdf](icons16/pdf-icon.png)](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/lectures_2018/LECTURE11_NLP-EMSE9662_20181115_Fall2018.pdf)
+[![github](icons16/github-icon.png)](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/lectures_2018/LECTURE11_NLP-EMSE9662_20181115_Fall2018.pdf)
+
+Lecture 13: Graphs<br/>
+&nbsp; &nbsp; &nbsp; Slides:
+[![pdf](icons16/pdf-icon.png)](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/lectures_2018/LECTURE12_Graphs-EMSE9662_20181129_Fall2018.pdf)
+[![github](icons16/github-icon.png)](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/lectures_2018/LECTURE12_Graphs-EMSE9662_20181129_Fall2018.pdf)
 
 ####  2017
 ##### <a name="EMSE6992"></a>[EMSE 6992 Introduction to Data Analytics](https://bsharvey.github.io/)
