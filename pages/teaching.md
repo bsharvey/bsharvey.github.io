@@ -44,7 +44,7 @@ description: Ben Harvey's teaching
 #### [Data Analytics Introduction and Practicum](http://bsharvey.github.io) (EMSE 6992; Fall, 2018)
 
 - [Course Website](https://bsharvey.github.io/pages/teaching.html)
-- [Syllabus](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/Syllabus_EMSE6992_Harvey_20180810.pdf)
+- [Syllabus](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/Syllabus_SEAS6401_Harvey_20190903.pdf)
 - [Lectures](https://bsharvey.github.io/pages/talks.html#lectures_2018)
 - [Assignments and Labs](https://github.com/bsharvey/EMSEDataAnalytics)
 - [Project Proposal and Final Project Instructions](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/Proposal%20Paper_GWU_Fall2018_20180830.pdf)
