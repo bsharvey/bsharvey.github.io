@@ -23,7 +23,7 @@ Lecture 1: Introduction to Data Analytics<br/>
 [![pdf](icons16/pdf-icon.png)](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/lectures_2018/LECTURE1-EMSE9662_20170830_bsharve.pdf)
 [![github](icons16/github-icon.png)](https://github.com/bsharvey/bsharvey.github.io/tree/master/assets/lectures_2018)<br/>
 
-Lecture 2: Data Science Process and Data Analytics Life Cycle<br/>
+Lecture 2: Data Science Process and Data Analytics Life Cycle<br/>
 &nbsp; &nbsp; &nbsp; Slides:
 [![pdf](icons16/pdf-icon.png)](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/lectures_2019/LECTURE1a-EMSE9662_20180910_Fall2018.pdf)
 [![github](icons16/github-icon.png)](https://github.com/bsharvey/bsharvey.github.io/tree/master/assets/lectures_2018)<br/>
