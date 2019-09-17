@@ -22,7 +22,7 @@ description: Ben Harvey's assignments
 
 ### EMSE 6992 Assignments
 ####  <a name="Assignment0"></a>Assignment0
-#### Opens 8/30 and Due 9/13
+#### Opens N/A and Due N/A
 ##### <a name="introduction"></a>introduction to Python, Jupyter Notebooks, Github, and Portfolios
 * [Lab: Installing and Editing Portfolios](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Assignments/Portfolio_Setup.ipynb)
 
@@ -36,7 +36,7 @@ Assignment    |    Repository
 
 
 ####  <a name="Assignment1"></a>Assignment1
-#### Opens 9/13 and Due 10/4
+#### Opens 9/10 and Due 10/1
 ##### <a name="datamanipulationandaggregation"></a>data maniuplation and aggregation
 * [Lab: Exploratory Data Analysis for Classification using Pandas and Matplotlib](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab_eda/lab3.ipynb)
 
@@ -58,7 +58,7 @@ Assignment    |    Repository
 
 
 ####  <a name="Assignment2"></a>Assignment2
-#### Opens 10/14 and Due 11/1
+#### Opens 10/1 and Due 10/22
 ##### <a name="scientificcomputing"></a>scientific computing
 * [Lab: Scikit-Learn, Regression, PCA](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab_scikitlearn_regression_pca/Lab4.ipynb)
 
@@ -82,7 +82,7 @@ Finally, this lab will address the Bayesian formulation of regression and the po
 
 
 ####  <a name="Assignment3"></a>Assignment3
-#### Opens 11/1 and Due 11/29
+#### Opens 10/22 and Due 11/12
 ##### <a name="deeplearning"></a>machine learning part1
 * [Lab: Neural Networks](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab_neuralnetworks_svm/Lab_10.ipynb)
 
@@ -136,7 +136,7 @@ Preprocessing
 
 
 ####  <a name="Assignment4"></a>Assignment4
-#### Opens 11/29 and Due 12/7
+#### Opens 11/12 and Due 12/3
 ##### <a name="portfolioimplementation"></a>portfolio implementation
 * [Tutorial: Portfolio Template Modifications](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Assignments/Portfolio_Setup.ipynb)
 
