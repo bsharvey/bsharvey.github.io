@@ -21,7 +21,7 @@ description: Ben Harvey's teaching
 #### [Data Analytics Introduction and Practicum](http://bsharvey.github.io) (SEAS 6401; Fall, 2019)
 
 - [Course Website](https://bsharvey.github.io/pages/teaching.html)
-- [Syllabus](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/Syllabus_SEAS6401_Harvey_20190903.pdf)
+- [Syllabus](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/Syllabus_SEAS6401_Harvey_20191029.pdf)
 - [Lectures](https://bsharvey.github.io/pages/talks.html#lectures_2019)
 - [Portfolio & Dev Environment](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Assignments/Portfolio_Setup.ipynb)
 - [Assignments and Labs](https://github.com/bsharvey/EMSEDataAnalytics)
