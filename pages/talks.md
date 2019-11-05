@@ -38,9 +38,19 @@ Lecture 4: Data Visualizations<br/>
 [![pdf](icons16/pdf-icon.png)](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/lectures_2019/LECTURE4-SEAS6401_20190924_Fall2019.pdf)
 [![github](icons16/github-icon.png)](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/lectures_2019)<br/>
 
-Lecture 5: Exploratory Data Analysis<br/>
+Lecture 5 & 6: Exploratory Data Analysis<br/>
 &nbsp; &nbsp; &nbsp; Slides:
 [![pdf](icons16/pdf-icon.png)](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/lectures_2019/LECTURE5_5_6_EDA-SEAS6401_20191001_Fall2019.pdf)
+[![github](icons16/github-icon.png)](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/lectures_2019)<br/>
+
+Lecture 7: Big Data Part 1<br/>
+&nbsp; &nbsp; &nbsp; Slides:
+[![pdf](icons16/pdf-icon.png)](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/lectures_2019/LECTURE_7_BigData-SEAS6401_20191105_Fall2019.pdf)
+[![github](icons16/github-icon.png)](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/lectures_2019)<br/>
+
+Lecture 8: Machine Learning Part 1<br/>
+&nbsp; &nbsp; &nbsp; Slides:
+[![pdf](icons16/pdf-icon.png)](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/lectures_2019/LECTURE_8_ML1a-SEAS6401_20191105_Fall2019.pdf)
 [![github](icons16/github-icon.png)](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/lectures_2019)<br/>
 
 ####  2018
