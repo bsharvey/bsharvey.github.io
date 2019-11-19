@@ -65,7 +65,7 @@ Lecture 10: Machine Learning - Bias and Fairness Part 2a<br/>
 
 Lecture 11: Machine Learning Part 3<br/>
 &nbsp; &nbsp; &nbsp; Slides:
-[![pdf](icons16/pdf-icon.png)](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/lectures_2019/LECTURE_11_ML3-SEAS6401_20191119_Fall2019.pptx)
+[![pdf](icons16/pdf-icon.png)](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/lectures_2019/LECTURE_11_ML3-SEAS6401_20191119_Fall2019.pdf)
 [![github](icons16/github-icon.png)](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/lectures_2019)<br/>
 
 ####  2018
