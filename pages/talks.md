@@ -68,7 +68,7 @@ Lecture 11: Machine Learning Part 3<br/>
 [![pdf](icons16/pdf-icon.png)](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/lectures_2019/LECTURE_11_ML3-SEAS6401_20191119_Fall2019.pdf)
 [![github](icons16/github-icon.png)](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/lectures_2019)<br/>
 
-Lecture 11: Machine Learning Part 4 - Graph Analytics<br/>
+Lecture 12: Machine Learning Part 4 - Graph Analytics<br/>
 &nbsp; &nbsp; &nbsp; Slides:
 [![pdf](icons16/pdf-icon.png)](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/lectures_2019/LECTURE_12_ML4-SEAS6401_20191126_Fall2019.pdf)
 [![github](icons16/github-icon.png)](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/lectures_2019)<br/>
