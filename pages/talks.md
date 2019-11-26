@@ -68,6 +68,11 @@ Lecture 11: Machine Learning Part 3<br/>
 [![pdf](icons16/pdf-icon.png)](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/lectures_2019/LECTURE_11_ML3-SEAS6401_20191119_Fall2019.pdf)
 [![github](icons16/github-icon.png)](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/lectures_2019)<br/>
 
+Lecture 11: Machine Learning Part 4 - Graph Analytics<br/>
+&nbsp; &nbsp; &nbsp; Slides:
+[![pdf](icons16/pdf-icon.png)](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/lectures_2019/LECTURE_12_ML4-SEAS6401_20191126_Fall2019.pdf)
+[![github](icons16/github-icon.png)](https://github.com/bsharvey/bsharvey.github.io/blob/master/assets/lectures_2019)<br/>
+
 ####  2018
 ##### <a name="EMSE6992"></a>[EMSE 6992 Introduction to Data Analytics](https://bsharvey.github.io/)
 Lectures from GWU's Graduate Data Analytics program established jointly byt the Engineering (EMSE) and Compuster Science (CS) departments.  Basic techniques of data science; algorithms for data mining; basics of statistical modeling and their “Big Data” applications. Concepts, abstractions, and practical techniques.
